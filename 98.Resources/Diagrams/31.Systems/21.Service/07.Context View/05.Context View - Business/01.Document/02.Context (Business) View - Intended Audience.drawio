@@ -1,0 +1,23 @@
+<mxfile modified="2022-05-02T00:23:44.731Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="5iuarQzPZx83ts29iv_1" compressed="false" version="17.5.0" type="google">
+  <diagram id="5yoc6g_hvBCZKsjoFb31" name="Business Context/Confidentiality/Intended Audience">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="hpkG3vvpmCNVcmLQrAHS-0" />
+        <mxCell id="hpkG3vvpmCNVcmLQrAHS-1" value="Diagram" parent="hpkG3vvpmCNVcmLQrAHS-0" />
+        <mxCell id="hpkG3vvpmCNVcmLQrAHS-2" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Sponsor&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_user-128.png;strokeColor=#f0f0f0;fillColor=none;fontSize=11;fontColor=#000000;align=center;rounded=0;arcSize=12;" vertex="1" parent="hpkG3vvpmCNVcmLQrAHS-1">
+          <mxGeometry x="130" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CV-_k34muKexvlOtfAL0-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Enterprise&lt;br&gt;Architects&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_user-128.png;strokeColor=#f0f0f0;fillColor=none;fontSize=11;fontColor=#000000;align=center;rounded=0;arcSize=12;" vertex="1" parent="hpkG3vvpmCNVcmLQrAHS-1">
+          <mxGeometry x="210" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tbXIjxaQs2wUtlKLT_zm-0" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Strategic&lt;br&gt;Governance&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_user-128.png;strokeColor=#f0f0f0;fillColor=none;fontSize=11;fontColor=#000000;align=center;rounded=0;arcSize=12;" vertex="1" parent="hpkG3vvpmCNVcmLQrAHS-1">
+          <mxGeometry x="290" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bgQAE8YFNBrUZ-u5x_5P-4" value="Title/Diagram" parent="hpkG3vvpmCNVcmLQrAHS-0" />
+        <mxCell id="CV-_k34muKexvlOtfAL0-0" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Diagram: &lt;/span&gt;Business Context - Intended Audience&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="bgQAE8YFNBrUZ-u5x_5P-4">
+          <mxGeometry x="120" y="280" width="520" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

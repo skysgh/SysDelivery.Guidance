@@ -1,0 +1,108 @@
+<mxfile modified="2022-05-02T11:21:43.300Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="jRmczt3rnvzhhiGMizsl" compressed="false" version="17.5.0" type="google">
+  <diagram id="RGsDfwzK2-LCwrcylnM9" name="Delivery Apporach">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="VeLkgxaD0AlNem_FnWKY-0" />
+        <mxCell id="VeLkgxaD0AlNem_FnWKY-1" parent="VeLkgxaD0AlNem_FnWKY-0" />
+        <UserObject label="" tooltip="ABOUT&#xa;&#xa;It is common to think deploying new systems is only about code, a Db, and maybe some seed data. There&#39;s a LOT more to it...&#xa;&#xa;Starting with getting an online collab space where more than one person can work (e.g.: an ALM Suite account).&#xa;&#xa;Then there&#39;s setting up one or more Domain Names, creating a TEXT DNS record for cert services to validate that you are in charge/own the Domain Names. Then there&#39;s the ordering of a Cert, creating DNS records (A Records, and sometimes MX records for email). Then there&#39;s coding a pipeline to use the ALM&#39;s Build Service to compile the code. There&#39;s the schema of the system&#39;s database, and updates (although consider using a DbAsCode to simplify deployment delta creations). And Media to consider. And if you&#39;re replacing an existing system there&#39;s the whole migration of existing data to the new system -- but DO NOT do it Db to Db -- the old Db&#39;s data MUST be passed through the service&#39;s APIs to ensure it&#39;s using the same validation as everybody else. Your build pipeline SHOULD be using a fully automated test suite. This is really the only way to capture system IP in any meaningful way (enterprise test contractors leave after go live).&#xa;&#xa;The build pipeline also deals with external services via configuration.&#xa;&#xa;And you SHOULD never go live without monitoring being in place to alert the right people of any abnormal behaviour is spotted. Basically, deploying software in a resilient, modular, maintainable manner involves delivering a lot." id="VeLkgxaD0AlNem_FnWKY-2">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699014-icon-28-information-128.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#505050;dashPattern=1 1;" vertex="1" parent="VeLkgxaD0AlNem_FnWKY-1">
+            <mxGeometry x="660" y="620" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="Refer to the&amp;nbsp;&lt;br&gt;Deployment Approach document for in depth advice specific to delivering Projects with an IT component." placeholders="1" tags="note" id="VeLkgxaD0AlNem_FnWKY-3">
+          <mxCell style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeWidth=1;fontSize=9;opacity=30;fillColor=none;strokeColor=#808080;fontColor=#808080;" vertex="1" parent="VeLkgxaD0AlNem_FnWKY-1">
+            <mxGeometry x="470" y="290" width="80" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="VeLkgxaD0AlNem_FnWKY-4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="VeLkgxaD0AlNem_FnWKY-1" source="VeLkgxaD0AlNem_FnWKY-9" target="VeLkgxaD0AlNem_FnWKY-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeLkgxaD0AlNem_FnWKY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="VeLkgxaD0AlNem_FnWKY-1" source="VeLkgxaD0AlNem_FnWKY-9" target="VeLkgxaD0AlNem_FnWKY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VeLkgxaD0AlNem_FnWKY-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="VeLkgxaD0AlNem_FnWKY-1" source="VeLkgxaD0AlNem_FnWKY-9" target="VeLkgxaD0AlNem_FnWKY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VeLkgxaD0AlNem_FnWKY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="VeLkgxaD0AlNem_FnWKY-1" source="VeLkgxaD0AlNem_FnWKY-9" target="VeLkgxaD0AlNem_FnWKY-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="370" />
+              <mxPoint x="220" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeLkgxaD0AlNem_FnWKY-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="VeLkgxaD0AlNem_FnWKY-1" source="VeLkgxaD0AlNem_FnWKY-9" target="VeLkgxaD0AlNem_FnWKY-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Delivery Approach" link="https://www.draw.io/#G15o2KeIGHn_QQKEGrSOj0Ot8KJxLwC4rH" id="VeLkgxaD0AlNem_FnWKY-9">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#B3B3B3;fillColor=none;fontSize=12;align=center;fontColor=#333333;recursiveResize=0;container=1;collapsible=0;" vertex="1" parent="VeLkgxaD0AlNem_FnWKY-1">
+            <mxGeometry x="120" y="350" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Developing &lt;u&gt;&lt;i&gt;Valuable&lt;/i&gt;&lt;/u&gt;&lt;br&gt;Requirements" link="https://www.draw.io/#G15o2KeIGHn_QQKEGrSOj0Ot8KJxLwC4rH" id="VeLkgxaD0AlNem_FnWKY-10">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#B3B3B3;fillColor=none;fontSize=12;align=center;fontColor=#333333;recursiveResize=0;container=1;collapsible=0;" vertex="1" parent="VeLkgxaD0AlNem_FnWKY-1">
+            <mxGeometry x="240" y="300" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Choosing a Delivery Methodology" link="https://www.draw.io/#G15o2KeIGHn_QQKEGrSOj0Ot8KJxLwC4rH" id="VeLkgxaD0AlNem_FnWKY-11">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#B3B3B3;fillColor=none;fontSize=12;align=center;fontColor=#333333;recursiveResize=0;container=1;collapsible=0;" vertex="1" parent="VeLkgxaD0AlNem_FnWKY-1">
+            <mxGeometry x="240" y="400" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Common IT Project Risks &amp;amp; Pitfalls" link="https://www.draw.io/#G15o2KeIGHn_QQKEGrSOj0Ot8KJxLwC4rH" id="VeLkgxaD0AlNem_FnWKY-12">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#B3B3B3;fillColor=none;fontSize=12;align=center;fontColor=#333333;recursiveResize=0;container=1;collapsible=0;" vertex="1" parent="VeLkgxaD0AlNem_FnWKY-1">
+            <mxGeometry x="240" y="250" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Common Prerequisites&lt;br&gt;To Consider" link="https://www.draw.io/#G15o2KeIGHn_QQKEGrSOj0Ot8KJxLwC4rH" id="VeLkgxaD0AlNem_FnWKY-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#B3B3B3;fillColor=none;fontSize=12;align=center;fontColor=#333333;recursiveResize=0;container=1;collapsible=0;" vertex="1" parent="VeLkgxaD0AlNem_FnWKY-1">
+            <mxGeometry x="240" y="200" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Delivery Environments" link="https://www.draw.io/#G15o2KeIGHn_QQKEGrSOj0Ot8KJxLwC4rH" id="VeLkgxaD0AlNem_FnWKY-14">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#B3B3B3;fillColor=none;fontSize=12;align=center;fontColor=#333333;recursiveResize=0;container=1;collapsible=0;" vertex="1" parent="VeLkgxaD0AlNem_FnWKY-1">
+            <mxGeometry x="240" y="550" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VeLkgxaD0AlNem_FnWKY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="VeLkgxaD0AlNem_FnWKY-1" source="VeLkgxaD0AlNem_FnWKY-9" target="VeLkgxaD0AlNem_FnWKY-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="160.33333333333337" as="sourcePoint" />
+            <mxPoint x="280.3333333333335" y="500.3333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Team Roles &amp;amp; Responsibilties" link="https://www.draw.io/#G15o2KeIGHn_QQKEGrSOj0Ot8KJxLwC4rH" id="VeLkgxaD0AlNem_FnWKY-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#B3B3B3;fillColor=none;fontSize=12;align=center;fontColor=#333333;recursiveResize=0;container=1;collapsible=0;" vertex="1" parent="VeLkgxaD0AlNem_FnWKY-1">
+            <mxGeometry x="240" y="450" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Considering&lt;br&gt;&lt;u&gt;&lt;i&gt;All&lt;/i&gt;&lt;/u&gt; Deliverable" link="https://www.draw.io/#G15o2KeIGHn_QQKEGrSOj0Ot8KJxLwC4rH" id="VeLkgxaD0AlNem_FnWKY-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#B3B3B3;fillColor=none;fontSize=12;align=center;fontColor=#333333;recursiveResize=0;container=1;collapsible=0;" vertex="1" parent="VeLkgxaD0AlNem_FnWKY-1">
+            <mxGeometry x="240" y="350" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VeLkgxaD0AlNem_FnWKY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="VeLkgxaD0AlNem_FnWKY-1" source="VeLkgxaD0AlNem_FnWKY-9" target="VeLkgxaD0AlNem_FnWKY-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="160.33333333333337" as="sourcePoint" />
+            <mxPoint x="280.3333333333335" y="400.3333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VeLkgxaD0AlNem_FnWKY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="VeLkgxaD0AlNem_FnWKY-1" source="VeLkgxaD0AlNem_FnWKY-9" target="VeLkgxaD0AlNem_FnWKY-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="380.1067961165048" as="sourcePoint" />
+            <mxPoint x="250.00970873786406" y="279.9126213592233" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Automating Team Roles" link="https://www.draw.io/#G15o2KeIGHn_QQKEGrSOj0Ot8KJxLwC4rH" id="VeLkgxaD0AlNem_FnWKY-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#B3B3B3;fillColor=none;fontSize=12;align=center;fontColor=#333333;recursiveResize=0;container=1;collapsible=0;" vertex="1" parent="VeLkgxaD0AlNem_FnWKY-1">
+            <mxGeometry x="240" y="500" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="VeLkgxaD0AlNem_FnWKY-21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Diagram: Delivery - Deployment Approach and Considerations&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="VeLkgxaD0AlNem_FnWKY-1">
+          <mxGeometry x="120" y="600" width="520" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

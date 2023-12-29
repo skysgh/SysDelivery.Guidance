@@ -1,0 +1,142 @@
+<mxfile modified="2022-05-08T23:24:25.267Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="wijQAG6oo_NsGJ_x0HAQ" compressed="false" version="18.0.2" type="google">
+  <diagram id="4nqyPJU7ipf3gQvgZrdt" name="Disaster Recovery/Azure LTR">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="EfFmo25kRIzDPWawZCIV-0" />
+        <mxCell id="EfFmo25kRIzDPWawZCIV-1" value="About" parent="EfFmo25kRIzDPWawZCIV-0" />
+        <mxCell id="CGYHoGrlCLSefp7qQ4CZ-0" value="LTR Schedule&lt;br&gt;&lt;span style=&quot;color: rgb(23 , 23 , 23) ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoeui&amp;#34; , &amp;#34;segoe wp&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;W=8, M=0, Y=0&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="EfFmo25kRIzDPWawZCIV-1">
+          <mxGeometry x="517" y="500" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CGYHoGrlCLSefp7qQ4CZ-1" value="Point in Time Restore (PITR)&lt;br&gt;Auto Backup Retention duration: &lt;br&gt;35 days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="EfFmo25kRIzDPWawZCIV-1">
+          <mxGeometry x="370" y="500" width="127" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CGYHoGrlCLSefp7qQ4CZ-2" value="Transparent Data Encryption (TDE)&lt;br&gt;automatically applied to DB and&amp;nbsp;&lt;br&gt;Backups" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="EfFmo25kRIzDPWawZCIV-1">
+          <mxGeometry x="300" y="510" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-64" value="Title/Page" visible="0" parent="EfFmo25kRIzDPWawZCIV-0" />
+        <mxCell id="Niry_rakXBA8MeS1bpm2-2" value="" style="group;fontSize=10;" vertex="1" connectable="0" parent="4Ggv3MJLqXbGlDD0t_oE-64">
+          <mxGeometry x="120" y="140" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Niry_rakXBA8MeS1bpm2-3" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Base Logical Module - &lt;/span&gt;Disaster Recovery - Azure Long Term Retrieval" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=1;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="Niry_rakXBA8MeS1bpm2-2">
+          <mxGeometry width="560" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Niry_rakXBA8MeS1bpm2-4" value="" style="line;strokeWidth=2;html=1;shadow=0;glass=0;comic=0;fillColor=none;fontSize=10;fontColor=#CCCCCC;labelBackgroundColor=none;strokeColor=#CCCCCC;" vertex="1" parent="Niry_rakXBA8MeS1bpm2-2">
+          <mxGeometry y="17.5" width="560" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-65" value="Boxes" parent="EfFmo25kRIzDPWawZCIV-0" />
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-0" value="Production Data Environments" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#FF3333;fillColor=none;fontSize=10;align=left;fontColor=#333333;recursiveResize=0;container=1;collapsible=0;verticalAlign=top;spacing=2;spacingTop=-5;absoluteArcSize=1;strokeWidth=4;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-65">
+          <mxGeometry x="120" y="320" width="560" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-1" value="PROD" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#CCCCCC;fillColor=none;fontSize=10;align=center;fontColor=#333333;recursiveResize=0;container=1;collapsible=0;verticalAlign=top;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-0">
+          <mxGeometry x="70" y="40.5" width="80" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-28" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_website;pointerEvents=1;dashed=1;fontSize=11;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-1">
+          <mxGeometry x="20" y="39.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-2" value="LTR BACKUPS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#CCCCCC;fillColor=none;fontSize=10;align=center;fontColor=#333333;recursiveResize=0;container=1;collapsible=0;verticalAlign=top;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-0">
+          <mxGeometry x="400" y="40" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;dashed=1;fontSize=11;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-2">
+          <mxGeometry x="15" y="24.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-5" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=10;" edge="1" parent="4Ggv3MJLqXbGlDD0t_oE-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-7" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=10;" edge="1" parent="4Ggv3MJLqXbGlDD0t_oE-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-12" value="SHARED DATA&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#CCCCCC;fillColor=none;fontSize=10;align=center;fontColor=#333333;recursiveResize=0;container=1;collapsible=0;verticalAlign=top;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-0">
+          <mxGeometry x="180" y="40" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-30" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;dashed=1;fontSize=11;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-12">
+          <mxGeometry x="10" y="35.5" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-58" value="restore" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="4Ggv3MJLqXbGlDD0t_oE-12" source="4Ggv3MJLqXbGlDD0t_oE-57" target="4Ggv3MJLqXbGlDD0t_oE-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-57" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FFB366;shape=mxgraph.azure.sql_database;dashed=1;fontSize=11;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-12">
+          <mxGeometry x="93.5" y="35.5" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-13" value="save &amp;amp; retrieve&lt;br&gt;LTR backups&lt;br&gt;(weekly, &lt;br&gt;monthly, &lt;br&gt;yearly)" style="rounded=1;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=8;startArrow=classic;startFill=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="4Ggv3MJLqXbGlDD0t_oE-0" source="4Ggv3MJLqXbGlDD0t_oE-12" target="4Ggv3MJLqXbGlDD0t_oE-2">
+          <mxGeometry y="-30" relative="1" as="geometry">
+            <mxPoint x="110" y="130" as="sourcePoint" />
+            <mxPoint x="360" y="-260" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-26" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_subscription;dashed=1;fontSize=11;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-0">
+          <mxGeometry x="10" y="20" width="50" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.team_foundation_service;dashed=1;fontSize=11;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-65">
+          <mxGeometry x="300" y="200" width="50" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;dashed=1;fontSize=11;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-65">
+          <mxGeometry x="260" y="248" width="30" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-38" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4Ggv3MJLqXbGlDD0t_oE-65" source="4Ggv3MJLqXbGlDD0t_oE-35" target="4Ggv3MJLqXbGlDD0t_oE-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="411" as="sourcePoint" />
+            <mxPoint x="300" y="411" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-40" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="4Ggv3MJLqXbGlDD0t_oE-65" source="4Ggv3MJLqXbGlDD0t_oE-35" target="4Ggv3MJLqXbGlDD0t_oE-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="281" as="sourcePoint" />
+            <mxPoint x="400" y="391" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="310" />
+              <mxPoint x="390" y="281" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-43" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="4Ggv3MJLqXbGlDD0t_oE-65" source="4Ggv3MJLqXbGlDD0t_oE-42" target="4Ggv3MJLqXbGlDD0t_oE-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="300" />
+              <mxPoint x="560" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;dashed=1;fontSize=11;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-65">
+          <mxGeometry x="310" y="247.5" width="30" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-45" value="&lt;font color=&quot;#ffffff&quot;&gt;2&lt;/font&gt;" style="shape=ellipse;fillColor=#0065FF;strokeColor=none;html=1;dashed=1;fontSize=11;align=center;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-65">
+          <mxGeometry x="330" y="273.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-46" value="&lt;font color=&quot;#ffffff&quot;&gt;1&lt;/font&gt;" style="shape=ellipse;fillColor=#0065FF;strokeColor=none;html=1;dashed=1;fontSize=11;align=center;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-65">
+          <mxGeometry x="280" y="274" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-59" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;fontSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="4Ggv3MJLqXbGlDD0t_oE-65" source="4Ggv3MJLqXbGlDD0t_oE-42" target="4Ggv3MJLqXbGlDD0t_oE-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="293.8571428571429" as="sourcePoint" />
+            <mxPoint x="358.71428571428567" y="405.8571428571429" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-60" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;dashed=1;fontSize=11;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-65">
+          <mxGeometry x="360" y="248" width="30" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-61" value="&lt;font color=&quot;#ffffff&quot;&gt;3&lt;/font&gt;" style="shape=ellipse;fillColor=#0065FF;strokeColor=none;html=1;dashed=1;fontSize=11;align=center;" vertex="1" parent="4Ggv3MJLqXbGlDD0t_oE-65">
+          <mxGeometry x="375" y="274" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XEJruzh12oiYMVxOz4po-0" value="Title/Diagram" parent="EfFmo25kRIzDPWawZCIV-0" />
+        <mxCell id="XEJruzh12oiYMVxOz4po-1" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Diagram: Base System Logical Module - &lt;/span&gt;Disaster Recovery - Azure Long Term Retrieval" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="XEJruzh12oiYMVxOz4po-0">
+          <mxGeometry x="120" y="580" width="560" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XEJruzh12oiYMVxOz4po-2" value="Notes" parent="EfFmo25kRIzDPWawZCIV-0" />
+        <mxCell id="4Ggv3MJLqXbGlDD0t_oE-50" value="ALM triggers one or more scripts to redeploy environments, restore from default backups (as long as DB Server is not deleted) - or if Server is gone, can trigger restore from Long Term Retention (LTR) backups.&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=none;fontSize=11;" vertex="1" parent="XEJruzh12oiYMVxOz4po-2">
+          <mxGeometry x="480" y="189.5" width="200" height="94" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

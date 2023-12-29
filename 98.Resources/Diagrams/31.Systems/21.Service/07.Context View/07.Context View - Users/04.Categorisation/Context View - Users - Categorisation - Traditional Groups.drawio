@@ -1,0 +1,65 @@
+<mxfile modified="2022-10-30T02:18:24.150Z" host="Electron" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.3.0 Chrome/104.0.5112.114 Electron/20.1.3 Safari/537.36" etag="60lm3XfDadGD-VLWkoly" compressed="false" version="20.3.0" type="device">
+  <diagram id="OiE_WIeiyFu7MGLe8vVh" name="User Context/User Groups">
+    <mxGraphModel dx="782" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="1xYJOBjyP96TDNRi-POg-0" />
+        <mxCell id="1xYJOBjyP96TDNRi-POg-1" value="Diagram" parent="1xYJOBjyP96TDNRi-POg-0" />
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-0" value="Organisation" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="120" y="220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-1" value="Consultant Group" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="120" y="310" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-2" value="Consultant Firm" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="280" y="340" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-3" value="Partners" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="120" y="250" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-4" value="Franchisee" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="120" y="280" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-5" value="Local Branch" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="160" y="370" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-6" value="Individual SMEs" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="280" y="280" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-7" value="Indigenous Groups" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="280" y="310" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-8" value="Organisation" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="280" y="220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-9" value="Partner Agencies" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="280" y="250" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-10" value="Peak Body Group" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="120" y="400" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-11" value="Consultant Firm" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="140" y="340" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-12" value="&lt;p style=&quot;line-height: 90%&quot;&gt;Individual Consultants&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="140" y="430" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-13" value="SMEs" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="280" y="370" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-14" value="Universities" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="280" y="400" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-15" value="Project Group" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=12;fontColor=#333333;align=center;strokeColor=#666666;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="280" y="190" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P1I1b7A55kE6zJoPPlrv-16" value="Partners Group" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#f5f5f5;fontFamily=Helvetica;fontSize=12;fontColor=#333333;align=center;strokeColor=#666666;" parent="1xYJOBjyP96TDNRi-POg-1" vertex="1">
+          <mxGeometry x="120" y="190" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aKtWH_4gdfOqpud3Ktek-2" value="Title/Diagram" parent="1xYJOBjyP96TDNRi-POg-0" />
+        <mxCell id="1xYJOBjyP96TDNRi-POg-3" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Diagram:&amp;nbsp;&lt;/span&gt;User Context - Groups&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" parent="aKtWH_4gdfOqpud3Ktek-2" vertex="1">
+          <mxGeometry x="120" y="460" width="560" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,37 @@
+<mxfile modified="2022-05-04T21:58:19.548Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="kk_u3HYnIC9P7l_qDmeE" compressed="false" version="17.5.0" type="google">
+  <diagram id="11iCddZRwknHHOVRfR59" name="Testing Plan Scope">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Vf6S-3C0ivIdTt0rk2H9-0" />
+        <mxCell id="Vf6S-3C0ivIdTt0rk2H9-1" parent="Vf6S-3C0ivIdTt0rk2H9-0" />
+        <mxCell id="Vf6S-3C0ivIdTt0rk2H9-2" value="Testing Scope" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vf6S-3C0ivIdTt0rk2H9-1">
+          <mxGeometry x="300" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf6S-3C0ivIdTt0rk2H9-3" value="In Scope" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vf6S-3C0ivIdTt0rk2H9-1">
+          <mxGeometry x="160" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf6S-3C0ivIdTt0rk2H9-4" value="Quality Requirements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vf6S-3C0ivIdTt0rk2H9-1">
+          <mxGeometry x="100" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf6S-3C0ivIdTt0rk2H9-5" value="Functional Requirements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vf6S-3C0ivIdTt0rk2H9-1">
+          <mxGeometry x="220" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf6S-3C0ivIdTt0rk2H9-6" value="Out of Scope" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vf6S-3C0ivIdTt0rk2H9-1">
+          <mxGeometry x="440" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf6S-3C0ivIdTt0rk2H9-7" value="Quality Requirements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vf6S-3C0ivIdTt0rk2H9-1">
+          <mxGeometry x="380" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf6S-3C0ivIdTt0rk2H9-8" value="Functional Requirements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vf6S-3C0ivIdTt0rk2H9-1">
+          <mxGeometry x="500" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf6S-3C0ivIdTt0rk2H9-9" value="Reason is given as:&lt;br&gt;Covered byCOTS (ie ,unenforceable), see&lt;br&gt;Security Pen Testing, Perf Testing, Code Review, INtegration Testing, Data Migration Testing" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="Vf6S-3C0ivIdTt0rk2H9-1">
+          <mxGeometry x="380" y="390" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vf6S-3C0ivIdTt0rk2H9-10" value="Process&amp;nbsp; given as:&lt;br&gt;Sighted, In Code Review, In Pen Test, Perf Test,&amp;nbsp;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="Vf6S-3C0ivIdTt0rk2H9-1">
+          <mxGeometry x="220" y="400" width="80" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

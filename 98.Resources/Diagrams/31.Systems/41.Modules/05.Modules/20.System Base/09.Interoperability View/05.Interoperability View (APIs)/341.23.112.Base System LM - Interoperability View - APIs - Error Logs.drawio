@@ -1,0 +1,134 @@
+<mxfile modified="2022-05-20T02:06:00.428Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="vOhUjFrlndtuEMaZCY-q" compressed="false" version="18.0.8" type="google">
+  <diagram name="Integration/System Logical Module/API/Resource URLs/ErrorRecords" id="0Vws_6ACpK2qQf728Z1Z">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-0" />
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-1" value="Diagram" parent="6qSF8fiyBmVxacRVo0UO-0" />
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-2" value="List ErrorRecords" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="400" y="300" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-3" value="ErrorRecords" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="160" y="300" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-4" value="ErrorRecords(&#39;{uuid}&#39;)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="160" y="400" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-5" value="View ErrorRecord&amp;nbsp;{uuid}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="400" y="400" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-6" value="GET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="120" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-7" value="GET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="120" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-8" value="POST" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="120" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-9" value="ErrorRecords" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="160" y="440" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-10" value="POST" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="120" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-11" value="ErrorRecords(&#39;{uuid}&#39;)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="160" y="460" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-12" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Create&amp;nbsp;&lt;span&gt;ErrorRecord&lt;/span&gt;, server side generated Id. &lt;b&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 10px&quot;&gt;&lt;u&gt;NOT&lt;/u&gt;&lt;/font&gt; &lt;/b&gt;recommended.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="400" y="440" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-13" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Create&amp;nbsp;&lt;span&gt;ErrorRecord&lt;/span&gt;, client side generated UUID. &lt;b&gt;&lt;font color=&quot;#009900&quot; style=&quot;font-size: 10px&quot;&gt;RECOMMNEDED&lt;/font&gt;&lt;/b&gt;.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="400" y="460" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-14" value="PUT" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="120" y="420" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-15" value="ErrorRecords(&#39;{uuid}&#39;)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="160" y="420" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-16" value="Create ErrorRecord, client side generated UUID." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="400" y="420" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-17" value="DELETE" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="120" y="480" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-18" value="ErrorRecords(&#39;{uuid}&#39;)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="160" y="480" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-19" value="Delete ErrorRecord&amp;nbsp;{uuid}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="400" y="480" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;List&amp;nbsp;&lt;span style=&quot;font-size: 10px;&quot;&gt;ErrorRecords&lt;/span&gt;, page 3, using ODATA standard filter arguments.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="400" y="340" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-21" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;ErrorRecords&lt;/span&gt;?$top=80&amp;amp;$skip=60&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="160" y="340" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-22" value="GET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="120" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-23" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Count ErrorRecords, using ODATA standard filter arguments.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="400" y="320" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-24" value="ErrorRecords?$count=true" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="160" y="320" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-25" value="GET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="120" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-26" value="GET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="120" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-27" value="ErrorRecords?$search=xyz" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="160" y="360" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-28" value="List ErrorRecords&amp;nbsp;that meet custom search criteria." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="400" y="360" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-29" value="Description" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=#333333;fontStyle=0" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="400" y="200" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-30" value="URL" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=#333333;fontStyle=0" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="160" y="200" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;VERB&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;fontColor=#333333;fontStyle=0" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="120" y="200" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-32" value="&lt;font style=&quot;font-size: 9px&quot;&gt;SummaryItem?$search=&lt;span style=&quot;font-size: 10px&quot;&gt;ErrorRecord&lt;/span&gt;,abc:xyz&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=9;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="160" y="260" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-33" value="GET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="120" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-34" value="&lt;font style=&quot;font-size: 10px&quot;&gt;SummaryItem?$search=ErrorRecord:xyz&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="160" y="240" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-35" value="GET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="120" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-36" value="List SummaryItems of type ErrorRecord custom matching xyz" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="400" y="240" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-37" value="List SummaryItems&amp;nbsp;of type ErrorRecord&amp;nbsp;&amp;amp; abc matching xyz" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-1">
+          <mxGeometry x="400" y="260" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-38" value="Context/Legend" parent="6qSF8fiyBmVxacRVo0UO-0" />
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-39" value="Title/Diagram" parent="6qSF8fiyBmVxacRVo0UO-0" />
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-40" value="&lt;font style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;&lt;i&gt;Diagram: Base&amp;nbsp;&lt;/i&gt;&lt;i&gt;System&amp;nbsp;&lt;/i&gt;&lt;i&gt;Logical Module - Interoperability - APIs - ErrorRecords&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=1;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-39">
+          <mxGeometry x="120" y="520" width="520" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-41" value="Title/Page" visible="0" parent="6qSF8fiyBmVxacRVo0UO-0" />
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-42" value="" style="group;fontSize=12;" vertex="1" connectable="0" parent="6qSF8fiyBmVxacRVo0UO-41">
+          <mxGeometry x="120" y="120" width="600" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-43" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Base Logical Module - Interoperability&amp;nbsp;- APIs - ErrorRecords&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=1;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-42">
+          <mxGeometry y="20" width="600" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-44" value="" style="line;strokeWidth=2;html=1;shadow=0;glass=0;comic=0;fillColor=none;fontSize=10;fontColor=#CCCCCC;labelBackgroundColor=none;strokeColor=#CCCCCC;" vertex="1" parent="6qSF8fiyBmVxacRVo0UO-42">
+          <mxGeometry y="35" width="600" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6qSF8fiyBmVxacRVo0UO-45" value="About" parent="6qSF8fiyBmVxacRVo0UO-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
