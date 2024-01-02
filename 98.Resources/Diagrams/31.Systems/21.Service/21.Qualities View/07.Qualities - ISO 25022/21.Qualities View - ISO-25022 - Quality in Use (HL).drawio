@@ -1,0 +1,33 @@
+<mxfile modified="2022-05-02T19:54:02.867Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="CHEPwmCxSpqmKoyLfl-Q" compressed="false" version="17.5.0" type="google">
+  <diagram name="Qualities/ISO-25024 (Simplified)" id="by7AxcQ_8j-9J-KueITv">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ve1QUPdOqQ50kpugInhG-0" />
+        <mxCell id="ve1QUPdOqQ50kpugInhG-1" value="Archimate" style="" parent="ve1QUPdOqQ50kpugInhG-0" />
+        <mxCell id="AlFkD4ZABgEqgZdOB0Ik-2" value="ISO-25024 are Qualities perceived by system users and stakeholders.&lt;br&gt;They rest on qualities derived by meeting ISO-25012, and therefore ISO-025010 (and ISO-25030)" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=none;fontSize=12;fontColor=#000000;opacity=40;" vertex="1" parent="ve1QUPdOqQ50kpugInhG-1">
+          <mxGeometry x="570" y="200" width="110" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ve1QUPdOqQ50kpugInhG-11" value="Boxes" style="" parent="ve1QUPdOqQ50kpugInhG-0" />
+        <mxCell id="ve1QUPdOqQ50kpugInhG-12" value="Effectiveness" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;fillColor=none;fontSize=12;align=center;" vertex="1" parent="ve1QUPdOqQ50kpugInhG-11">
+          <mxGeometry x="119.99999999999989" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ve1QUPdOqQ50kpugInhG-14" value="Safety" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;fillColor=none;fontSize=12;align=center;" vertex="1" parent="ve1QUPdOqQ50kpugInhG-11">
+          <mxGeometry x="389.9999999999999" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ve1QUPdOqQ50kpugInhG-15" value="Efficiency" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;fillColor=none;fontSize=12;align=center;" vertex="1" parent="ve1QUPdOqQ50kpugInhG-11">
+          <mxGeometry x="209.9999999999999" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ve1QUPdOqQ50kpugInhG-17" value="Context &lt;font style=&quot;font-size: 11px&quot;&gt;Comprehensive&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;fillColor=none;fontSize=12;align=center;" vertex="1" parent="ve1QUPdOqQ50kpugInhG-11">
+          <mxGeometry x="479.9999999999999" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ve1QUPdOqQ50kpugInhG-18" value="Satisfaction" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;strokeColor=#000000;fillColor=none;fontSize=12;align=center;" vertex="1" parent="ve1QUPdOqQ50kpugInhG-11">
+          <mxGeometry x="300" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ve1QUPdOqQ50kpugInhG-21" value="Title/Diagram" parent="ve1QUPdOqQ50kpugInhG-0" />
+        <mxCell id="ve1QUPdOqQ50kpugInhG-22" value="&lt;font style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;&lt;i&gt;Diagram: Base&amp;nbsp;&lt;/i&gt;&lt;i&gt;System&amp;nbsp;&lt;/i&gt;&lt;i&gt;Logical Module - Qualities - ISO-25022 - Quality in Use (HL)&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=1;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="ve1QUPdOqQ50kpugInhG-21">
+          <mxGeometry x="120" y="360" width="520" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
