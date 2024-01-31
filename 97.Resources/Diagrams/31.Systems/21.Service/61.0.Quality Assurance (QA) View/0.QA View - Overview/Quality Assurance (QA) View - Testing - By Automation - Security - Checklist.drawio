@@ -1,0 +1,76 @@
+<mxfile modified="2022-05-04T22:04:11.274Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="VutvUwg5c0wC_24Pfbm_" compressed="false" version="17.5.0" type="google">
+  <diagram id="aDe6MFg3X1otCs_39lei" name="Web Sercurity Issues &amp; remediation example">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-0" />
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-1" parent="VEA-bc-DZ_qAaZlFPNGW-0" />
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-4" value="Stored Cross-SIte Scripting (XSS)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="120" y="160" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-5" value="Privilege Escalation" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="120" y="190" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-6" value="Upload Malware Detection" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="120" y="220" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-7" value="Broken Logout Functionality" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="120" y="250" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-8" value="Device Information Disclosure" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="120" y="280" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-9" value="User Account Enumeration" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="120" y="310" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-10" value="Generic Server Error Disclosure" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="120" y="340" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-11" value="Support of Weak Cryptographic Protocols" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="120" y="370" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-12" value="SSL not enforced" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="120" y="400" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-13" value="Validate &amp;amp; Sanitise Input" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="400" y="160" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-14" value="Users cannot invite others to higher roles" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="400" y="190" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-15" value="Implement malware scanning on uploads" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="400" y="220" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-16" value="Fix logout functionality" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="400" y="250" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-17" value="Suppress Component Type &amp;amp; Version Numbers" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="400" y="280" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-18" value="Ensure Secure flag is set on all cookies" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="400" y="430" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-19" value="Disable weak encryption protocols" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="400" y="370" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-20" value="Consider HTTP Strict Transport Security headers" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="400" y="400" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-21" value="Return generic error msg, or rate-limit attempts" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="400" y="310" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-22" value="Develop Custom Errr Messages" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="400" y="340" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-23" value="Remove all test accounts" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="400" y="460" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-24" value="Retest" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="400" y="490" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VEA-bc-DZ_qAaZlFPNGW-25" value="Other" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VEA-bc-DZ_qAaZlFPNGW-1">
+          <mxGeometry x="120" y="460" width="240" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

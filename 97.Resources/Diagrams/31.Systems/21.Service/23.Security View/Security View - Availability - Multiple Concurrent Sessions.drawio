@@ -1,0 +1,76 @@
+<mxfile modified="2022-05-02T22:47:17.807Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="R6x_C9Gtawa22ahIWJ2k" compressed="false" version="17.5.0" type="google">
+  <diagram name="Security/Availability/Multiple Concurrent Sessions" id="E4HXCOSRYkcEuaCwXGWc">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="9T9UjzGxIa-dIEJ-iFlp-0" />
+        <mxCell id="9T9UjzGxIa-dIEJ-iFlp-1" parent="9T9UjzGxIa-dIEJ-iFlp-0" />
+        <mxCell id="9T9UjzGxIa-dIEJ-iFlp-2" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Diagram: Base&amp;nbsp;&lt;/span&gt;System&amp;nbsp;&lt;span style=&quot;font-size: 12px&quot;&gt;Logical Module -&amp;nbsp;&lt;/span&gt;Security - Availability - Multiple concurrent sessions&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="9T9UjzGxIa-dIEJ-iFlp-1">
+          <mxGeometry x="120" y="630" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wbqlp3fwahuGlOEyInTB-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9T9UjzGxIa-dIEJ-iFlp-1" source="9T9UjzGxIa-dIEJ-iFlp-10" target="9T9UjzGxIa-dIEJ-iFlp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9UjzGxIa-dIEJ-iFlp-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/elasto-online-store/26/00-ELASTOFONT-STORE-READY_user-128.png" vertex="1" parent="9T9UjzGxIa-dIEJ-iFlp-1">
+          <mxGeometry x="170" y="450" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9UjzGxIa-dIEJ-iFlp-11" value="travel&lt;br&gt;laptop" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.laptop;" vertex="1" parent="9T9UjzGxIa-dIEJ-iFlp-1">
+          <mxGeometry x="293" y="414" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9UjzGxIa-dIEJ-iFlp-13" value="&lt;font color=&quot;#000000&quot;&gt;mobile&lt;br&gt;device&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" vertex="1" parent="9T9UjzGxIa-dIEJ-iFlp-1">
+          <mxGeometry x="295" y="330" width="12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9UjzGxIa-dIEJ-iFlp-14" value="workstation&lt;br&gt;desktop" style="outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_desktop;pointerEvents=1;fillColor=#000000;strokeWidth=2;" vertex="1" parent="9T9UjzGxIa-dIEJ-iFlp-1">
+          <mxGeometry x="290" y="491" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9T9UjzGxIa-dIEJ-iFlp-15" value="Presentation room&lt;br&gt;virtual machine" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-management-3-4/256/m-56-128.png" vertex="1" parent="9T9UjzGxIa-dIEJ-iFlp-1">
+          <mxGeometry x="290" y="570" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wbqlp3fwahuGlOEyInTB-0" value="Web Server" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;fillColor=none;" vertex="1" parent="9T9UjzGxIa-dIEJ-iFlp-1">
+          <mxGeometry x="490" y="451" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wbqlp3fwahuGlOEyInTB-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="9T9UjzGxIa-dIEJ-iFlp-1" source="9T9UjzGxIa-dIEJ-iFlp-10" target="9T9UjzGxIa-dIEJ-iFlp-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="208.83333333333326" y="450" as="sourcePoint" />
+            <mxPoint x="303" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbqlp3fwahuGlOEyInTB-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="9T9UjzGxIa-dIEJ-iFlp-1" source="9T9UjzGxIa-dIEJ-iFlp-10" target="9T9UjzGxIa-dIEJ-iFlp-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="218.83333333333326" y="460" as="sourcePoint" />
+            <mxPoint x="293.99" y="437.4882683795387" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbqlp3fwahuGlOEyInTB-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="9T9UjzGxIa-dIEJ-iFlp-1" source="9T9UjzGxIa-dIEJ-iFlp-10" target="9T9UjzGxIa-dIEJ-iFlp-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="228.83333333333326" y="470" as="sourcePoint" />
+            <mxPoint x="291.52" y="501.2871323733293" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbqlp3fwahuGlOEyInTB-5" value="concurrent&lt;br&gt;session #1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="9T9UjzGxIa-dIEJ-iFlp-1" source="9T9UjzGxIa-dIEJ-iFlp-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="208.83333333333326" y="450" as="sourcePoint" />
+            <mxPoint x="490" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbqlp3fwahuGlOEyInTB-6" value="concurrent&lt;br&gt;session #2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9T9UjzGxIa-dIEJ-iFlp-1" source="9T9UjzGxIa-dIEJ-iFlp-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="350" as="sourcePoint" />
+            <mxPoint x="490" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbqlp3fwahuGlOEyInTB-7" value="concurrent&lt;br&gt;session #3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9T9UjzGxIa-dIEJ-iFlp-1" source="9T9UjzGxIa-dIEJ-iFlp-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="343.99" y="435.52455665432853" as="sourcePoint" />
+            <mxPoint x="490" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbqlp3fwahuGlOEyInTB-9" value="concurrent&lt;br&gt;session #4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="9T9UjzGxIa-dIEJ-iFlp-1" source="9T9UjzGxIa-dIEJ-iFlp-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="346.4699999999999" y="508.16938758597826" as="sourcePoint" />
+            <mxPoint x="490" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

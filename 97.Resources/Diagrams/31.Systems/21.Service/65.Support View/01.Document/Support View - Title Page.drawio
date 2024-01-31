@@ -1,0 +1,19 @@
+<mxfile modified="2021-05-05T06:50:50.601Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="qbmNVNi4r0hoI7HI5K6v" compressed="false" version="14.6.9" type="google">
+  <diagram id="CBZE5EnlUbvfmkH95Xpe" name="SUPPORT VIEW">
+    <mxGraphModel dx="1130" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="cIdws68uy7ggRpzQVMdc-0" />
+        <mxCell id="jYMLAIxQ-j_76Cvb_cUH-0" value="About" parent="cIdws68uy7ggRpzQVMdc-0" />
+        <mxCell id="cIdws68uy7ggRpzQVMdc-1" value="Title" parent="cIdws68uy7ggRpzQVMdc-0" />
+        <mxCell id="HYDTLBECNAaw27s8Pu9v-1" value="Support View" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;opacity=30;" parent="cIdws68uy7ggRpzQVMdc-1" vertex="1">
+          <mxGeometry x="160" y="200" width="480" height="320" as="geometry" />
+        </mxCell>
+        <UserObject label="" tooltip="ABOUT&#xa;&#xa;The View describes how Support is provided to End Users." id="WgNIZ3ZfcwUm8Z14Zcj4-0">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699014-icon-28-information-128.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#505050;dashPattern=1 1;" parent="cIdws68uy7ggRpzQVMdc-1" vertex="1">
+            <mxGeometry x="620" y="380" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

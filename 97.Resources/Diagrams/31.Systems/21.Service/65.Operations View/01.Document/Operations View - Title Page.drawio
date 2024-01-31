@@ -1,0 +1,14 @@
+<mxfile modified="2022-05-09T01:13:04.260Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="BYLM_ilCxlNNuGtCyYxd" compressed="false" version="18.0.2" type="google">
+  <diagram id="3-z4Z5wsivisjI5b2qrX" name="OPERATIONS VIEW">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="S9mM11XIe4ebcKMvdF33-0" />
+        <mxCell id="S9mM11XIe4ebcKMvdF33-1" value="About" parent="S9mM11XIe4ebcKMvdF33-0" />
+        <mxCell id="S9mM11XIe4ebcKMvdF33-4" value="Title" parent="S9mM11XIe4ebcKMvdF33-0" />
+        <mxCell id="S9mM11XIe4ebcKMvdF33-3" value="Operations View" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;opacity=30;" vertex="1" parent="S9mM11XIe4ebcKMvdF33-4">
+          <mxGeometry x="160" y="200" width="480" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

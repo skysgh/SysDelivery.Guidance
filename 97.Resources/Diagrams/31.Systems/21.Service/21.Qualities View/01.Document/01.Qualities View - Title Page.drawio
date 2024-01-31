@@ -1,0 +1,14 @@
+<mxfile modified="2022-05-02T11:41:57.841Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="7R2VeI4Dts76qWAgwEod" compressed="false" version="17.5.0" type="google">
+  <diagram id="E3EL8aqkVsCCtZ6tddg6" name="Title Page">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="aliCAbjm5coR8h__wM5k-0" />
+        <mxCell id="xuAvxQ0eWo9Lp4MWavcg-0" value="About" parent="aliCAbjm5coR8h__wM5k-0" />
+        <mxCell id="aliCAbjm5coR8h__wM5k-1" value="Title" parent="aliCAbjm5coR8h__wM5k-0" />
+        <mxCell id="7ShPSlSFCCMWXLD-yw0H-1" value="Qualities View" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;opacity=30;" vertex="1" parent="aliCAbjm5coR8h__wM5k-1">
+          <mxGeometry x="160" y="280" width="480" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

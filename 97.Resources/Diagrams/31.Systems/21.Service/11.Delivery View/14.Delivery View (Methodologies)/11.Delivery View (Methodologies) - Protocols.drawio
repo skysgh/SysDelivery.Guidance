@@ -1,0 +1,97 @@
+<mxfile modified="2022-05-02T07:38:22.349Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="FWehTDeKrYKYnf20E165" compressed="false" version="17.5.0" type="google">
+  <diagram id="Jtdk_Pbmo5KpYYlxo4H4" name="Protocols">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="1oVu96SEXm-08SD4bIGF-0" />
+        <mxCell id="1oVu96SEXm-08SD4bIGF-1" parent="1oVu96SEXm-08SD4bIGF-0" />
+        <UserObject label="&lt;span style=&quot;font-family: arial, sans-serif; font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Views&lt;/font&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;ISO/IEC/IEEE&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;42010:2011&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" link="https://www.iso.org/standard/50508.html" id="1oVu96SEXm-08SD4bIGF-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=11;fontColor=#333333;align=center;labelBackgroundColor=none;overflow=visible;recursiveResize=0;arcSize=12;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+            <mxGeometry x="120" y="400" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-family: &amp;quot;helvetica neue&amp;quot;, helvetica, arial, sans-serif; text-align: left; font-size: 12px;&quot;&gt;Data Qualities&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;ISO/IEC 25012&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" link="https://iso25000.com/index.php/en/iso-25000-standards/iso-25010" id="1oVu96SEXm-08SD4bIGF-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=11;fontColor=#333333;align=center;labelBackgroundColor=none;overflow=visible;recursiveResize=0;arcSize=12;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+            <mxGeometry x="210" y="500" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 12px&quot;&gt;System Qualities&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;ISO-25010&lt;/font&gt;&lt;/font&gt;" link="https://iso25000.com/index.php/en/iso-25000-standards/iso-25010" id="1oVu96SEXm-08SD4bIGF-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=11;fontColor=#333333;align=center;labelBackgroundColor=none;overflow=visible;recursiveResize=0;arcSize=12;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+            <mxGeometry x="120" y="500" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;p style=&quot;box-sizing: border-box; margin: 0px; line-height: 1.1; font-size: 12px;&quot;&gt;&lt;span style=&quot;line-height: 12px; font-weight: normal; font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;UML&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;ISO/IEC 19505-2:2012&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" link="https://www.iso.org/standard/52854.html" id="1oVu96SEXm-08SD4bIGF-5">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=11;fontColor=#333333;align=center;verticalAlign=middle;labelBackgroundColor=none;overflow=visible;recursiveResize=0;arcSize=12;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+            <mxGeometry x="120" y="450" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;p style=&quot;box-sizing: border-box; margin: 0px; line-height: 1.1; font-size: 12px;&quot;&gt;Archimate 3.1&lt;/p&gt;" link="https://pubs.opengroup.org/architecture/archimate3-doc/toc.html" id="1oVu96SEXm-08SD4bIGF-6">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=11;fontColor=#333333;align=center;verticalAlign=middle;labelBackgroundColor=none;overflow=visible;recursiveResize=0;perimeter=rectanglePerimeter;absoluteArcSize=1;arcSize=12;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+            <mxGeometry x="210" y="450" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;p style=&quot;box-sizing: border-box; margin: 0px; line-height: 1.1; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-family: sans-serif; font-size: 12px;&quot;&gt;ISO/IEC 29110&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/p&gt;" link="https://en.wikipedia.org/wiki/ISO_29110" id="1oVu96SEXm-08SD4bIGF-7">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=11;fontColor=#333333;align=center;verticalAlign=middle;labelBackgroundColor=none;overflow=visible;recursiveResize=0;arcSize=12;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+            <mxGeometry x="120" y="250" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1oVu96SEXm-08SD4bIGF-8" value="Standards for Software Lifecycle Processes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+          <mxGeometry x="320" y="260" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oVu96SEXm-08SD4bIGF-9" value="Standards for describing Complex System Models as Views, from the Viewpoint of different Stakeholder groups." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+          <mxGeometry x="320" y="400" width="360" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; line-height: 1.1 ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: sans-serif ; font-size: 12px&quot;&gt;ISO/IEC 12207&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/p&gt;" link="https://en.wikipedia.org/wiki/ISO/IEC_12207" id="1oVu96SEXm-08SD4bIGF-10">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=11;fontColor=#333333;align=center;verticalAlign=middle;labelBackgroundColor=none;overflow=visible;recursiveResize=0;arcSize=12;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+            <mxGeometry x="210" y="250" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1oVu96SEXm-08SD4bIGF-11" value="Standards for diagramming Models for Business and Technical Audiences." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+          <mxGeometry x="320" y="460" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oVu96SEXm-08SD4bIGF-12" value="Standards for defining the value Qualities of systems, data and their In Use qualities." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+          <mxGeometry x="320" y="510" width="360" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; line-height: 1.1 ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: sans-serif ; font-size: 12px&quot;&gt;ISO/IEC 15288:2015&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/p&gt;" link="https://www.iso.org/standard/63711.html" id="1oVu96SEXm-08SD4bIGF-13">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=11;fontColor=#333333;align=center;verticalAlign=middle;labelBackgroundColor=none;overflow=visible;recursiveResize=0;arcSize=12;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+            <mxGeometry x="210" y="200" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1oVu96SEXm-08SD4bIGF-14" value="Standards for System Lifecyle Processes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+          <mxGeometry x="320" y="210" width="360" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; line-height: 1.1 ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: sans-serif ; font-size: 12px&quot;&gt;ISO 29110-4-5&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/p&gt;" id="1oVu96SEXm-08SD4bIGF-15">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=11;fontColor=#333333;align=center;verticalAlign=middle;labelBackgroundColor=none;overflow=visible;recursiveResize=0;arcSize=12;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+            <mxGeometry x="120" y="350" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1oVu96SEXm-08SD4bIGF-16" value="Devops" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+          <mxGeometry x="320" y="360" width="360" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;p style=&quot;box-sizing: border-box ; margin: 0px ; line-height: 1.1 ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: sans-serif ; font-size: 12px&quot;&gt;ISO 29110-4-4&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/p&gt;" id="1oVu96SEXm-08SD4bIGF-17">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=11;fontColor=#333333;align=center;verticalAlign=middle;labelBackgroundColor=none;overflow=visible;recursiveResize=0;arcSize=12;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+            <mxGeometry x="120" y="300" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1oVu96SEXm-08SD4bIGF-18" value="Agile Development" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+          <mxGeometry x="320" y="310" width="360" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 12px&quot;&gt;ISO-15289:2019&lt;br&gt;&lt;br&gt;&lt;/font&gt;" link="https://iso25000.com/index.php/en/iso-25000-standards/iso-25010" id="1oVu96SEXm-08SD4bIGF-19">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontSize=11;fontColor=#333333;align=center;labelBackgroundColor=none;overflow=visible;recursiveResize=0;arcSize=12;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+            <mxGeometry x="120" y="550" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1oVu96SEXm-08SD4bIGF-20" value="SDLC Documentation" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+          <mxGeometry x="320" y="560" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1oVu96SEXm-08SD4bIGF-21" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Diagram: &lt;/span&gt;Delivery&amp;nbsp;- Protocols&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+          <mxGeometry x="120" y="615" width="520" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="" tooltip="Standard protocols are used to document a solution architecture description.&#xa;&#xa;This fulfills two purposes:&#xa;&#xa;Communicates in a non-ambiguous way to industry specialists in a format they are trained to understand.&#xa;&#xa;Uses the Modeling Protocols to test the logic and completeness of the design on paper -- which is a lot cheaper than testing those qualities with a full production staff." id="1oVu96SEXm-08SD4bIGF-22">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699014-icon-28-information-128.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#505050;dashPattern=1 1;" vertex="1" parent="1oVu96SEXm-08SD4bIGF-1">
+            <mxGeometry x="660" y="530" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

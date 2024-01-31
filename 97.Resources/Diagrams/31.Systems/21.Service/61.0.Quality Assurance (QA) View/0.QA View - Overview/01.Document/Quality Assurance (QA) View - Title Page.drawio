@@ -1,0 +1,19 @@
+<mxfile modified="2022-05-04T21:51:56.858Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="acpu6lIYpHCiopHHytcm" compressed="false" version="17.5.0" type="google">
+  <diagram id="UUFQJ_P5Lj8WxzZ-YhYw" name="QA VIEW">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="rea9Ac5udEyeECNSLuxF-0" />
+        <mxCell id="rea9Ac5udEyeECNSLuxF-1" value="Title" parent="rea9Ac5udEyeECNSLuxF-0" />
+        <mxCell id="rea9Ac5udEyeECNSLuxF-3" value="Quality Assurance View" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;opacity=30;" vertex="1" parent="rea9Ac5udEyeECNSLuxF-1">
+          <mxGeometry x="160" y="200" width="480" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="GHVoLOrI0ZlCJ3ehja_S-0" value="About" parent="rea9Ac5udEyeECNSLuxF-0" />
+        <UserObject label="" tooltip="ABOUT&#xa;&#xa;The View describes for Test Analysts how Testing will be automated and made part of the delivery pipeline. Tests include:&#xa;&#xa;&#xa;&#xa;- Unit Testing&#xa;&#xa;- Behavioural Testing&#xa;&#xa;- Security Testing&#xa;&#xa;- H/A Testing&#xa;&#xa;- Performance Testing&#xa;&#xa;" id="f4NUUFzGaKiT5YjlDfhL-0">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699014-icon-28-information-128.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#505050;dashPattern=1 1;" vertex="1" parent="GHVoLOrI0ZlCJ3ehja_S-0">
+            <mxGeometry x="660" y="380" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

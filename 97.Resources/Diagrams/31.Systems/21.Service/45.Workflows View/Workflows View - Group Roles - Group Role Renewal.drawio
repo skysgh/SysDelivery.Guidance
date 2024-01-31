@@ -1,0 +1,43 @@
+<mxfile modified="2022-05-04T05:01:38.521Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="LTj4DdbafgCkPOrPV-nR" compressed="false" version="17.5.0" type="google">
+  <diagram id="ZpsvIllXRDjL-uL1JMAf" name="Group Role Renewal">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="a41uVuVN1UrL1tvNFdbZ-0" />
+        <mxCell id="a41uVuVN1UrL1tvNFdbZ-1" parent="a41uVuVN1UrL1tvNFdbZ-0" />
+        <mxCell id="a41uVuVN1UrL1tvNFdbZ-2" value="Start" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a41uVuVN1UrL1tvNFdbZ-1">
+          <mxGeometry x="120" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a41uVuVN1UrL1tvNFdbZ-3" value="SCheduled Removal&lt;br&gt;Impeding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a41uVuVN1UrL1tvNFdbZ-1">
+          <mxGeometry x="480" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a41uVuVN1UrL1tvNFdbZ-4" value="Send Notification&lt;br&gt;To Group Managers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a41uVuVN1UrL1tvNFdbZ-1">
+          <mxGeometry x="480" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a41uVuVN1UrL1tvNFdbZ-5" value="Accept Renewal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a41uVuVN1UrL1tvNFdbZ-1">
+          <mxGeometry x="210" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a41uVuVN1UrL1tvNFdbZ-6" value="Select Continuation Till" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a41uVuVN1UrL1tvNFdbZ-1">
+          <mxGeometry x="210" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a41uVuVN1UrL1tvNFdbZ-7" value="Develop Renewal Terms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a41uVuVN1UrL1tvNFdbZ-1">
+          <mxGeometry x="480" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a41uVuVN1UrL1tvNFdbZ-8" value="Review Renewal Terms" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a41uVuVN1UrL1tvNFdbZ-1">
+          <mxGeometry x="210" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a41uVuVN1UrL1tvNFdbZ-9" value="Review Renewal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a41uVuVN1UrL1tvNFdbZ-1">
+          <mxGeometry x="320" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a41uVuVN1UrL1tvNFdbZ-10" value="Approve Renewal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a41uVuVN1UrL1tvNFdbZ-1">
+          <mxGeometry x="320" y="700" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a41uVuVN1UrL1tvNFdbZ-11" value="Send Approved Renewal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a41uVuVN1UrL1tvNFdbZ-1">
+          <mxGeometry x="480" y="700" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a41uVuVN1UrL1tvNFdbZ-12" value="Accept" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a41uVuVN1UrL1tvNFdbZ-1">
+          <mxGeometry x="610" y="750" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

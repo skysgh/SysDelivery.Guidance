@@ -1,5 +1,0 @@
-01.Document
-02.Resources
-  01.Legacy
-04.Categorisation
-05.Decisions

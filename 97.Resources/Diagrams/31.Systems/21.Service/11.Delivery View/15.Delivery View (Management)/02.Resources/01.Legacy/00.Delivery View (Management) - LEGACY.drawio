@@ -1,0 +1,103 @@
+<mxfile modified="2022-05-02T11:21:22.344Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="mupmuBYAPKpl9rlvD9Tv" compressed="false" version="17.5.0" type="google">
+  <diagram id="qwmWsjzWAgfId82Yjvin" name="Page-3">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-0" />
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-1" parent="QdbNLKzlp7Sa9JjDVJQk-0" />
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-2" value="UX first led Design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="120" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-3" value="Information Led Design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="600" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-4" value="Web site led design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="120" y="350" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-5" value="Service + Svc Client based architecture" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="600" y="350" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-6" value="&lt;p style=&quot;line-height: 90%&quot;&gt;Ext-facing svcs within products&amp;nbsp;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="120" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-7" value="&lt;p style=&quot;line-height: 90%&quot;&gt;Custom development for internal services&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="120" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-8" value="&lt;p style=&quot;line-height: 90%&quot;&gt;Customized platforms for unique services&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="600" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-9" value="&lt;p style=&quot;line-height: 90%&quot;&gt;Suite based internal services&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="600" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-10" value="Principled based decisions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="120" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-11" value="Unprincipled decision making" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="600" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-12" value="It&#39;s called I.T - not S.T., F.T or UX.T - for a reason." style="shape=note;size=13;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="240" y="300" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-13" value="Self-serving, confusing service and client, is dangerous for businesses. As it is for technology outcomes." style="shape=note;size=13;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="240" y="350" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-14" value="&lt;p style=&quot;line-height: 120%&quot;&gt;Moving into an apartment and customising it with poster art is easier and cheaper -- but don&#39;t expect to be able to distinguish it from the neighbour&#39;s shop.&lt;br&gt;&lt;/p&gt;" style="shape=note;size=13;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="240" y="500" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-15" value="&lt;p style=&quot;line-height: 120%&quot;&gt;Business processes (HR, CRM, FIN, DM, ID), are highly optimised and mature. If you&#39;re reinventing, or highly customising, it probably indicates misunderstandings.&lt;br&gt;&lt;/p&gt;" style="shape=note;size=13;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="240" y="550" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-16" value="Discovering &amp;amp; evolving the plan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="120" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-17" value="Starting with a plan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="600" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-18" value="&lt;p style=&quot;line-height: 100%&quot;&gt;Nothing like robustly discussing every decision-- versus only having to discuss those that go against pre-agreed guiding principles&lt;/p&gt;" style="shape=note;size=13;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="240" y="200" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-19" value="Horde base design. Interesting concept.&amp;nbsp;&lt;br&gt;Try asking a bank to back a house-build that way.&lt;br&gt;MVP should &lt;i&gt;&lt;u&gt;&lt;b&gt;not&lt;/b&gt;&lt;/u&gt;&lt;/i&gt; stand for Missing Valuable Planning." style="shape=note;size=13;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="240" y="250" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-20" value="&lt;p style=&quot;line-height: 90%&quot;&gt;Designing for Inputs&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="120" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-21" value="&lt;p style=&quot;line-height: 90%&quot;&gt;Designing for Outputs&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="600" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-22" value="&lt;p style=&quot;line-height: 120%&quot;&gt;Input is work. Output is assistance.&lt;br&gt;We&#39;re here to be assisted by IT, not work for it.&lt;/p&gt;" style="shape=note;size=13;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="240" y="400" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-23" value="&lt;p style=&quot;line-height: 90%&quot;&gt;Design for &quot;Internal&quot; users&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="120" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-24" value="&lt;p style=&quot;line-height: 90%&quot;&gt;Design for users to access from anywhere&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="600" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-25" value="&lt;p style=&quot;line-height: 120%&quot;&gt;The 90&#39;s Local Area Network (LAN) is dead. &lt;br&gt;Long live the Wide Area Network (WAN) Web.&lt;br&gt;(It also ensures Security is designed in from the start).&lt;/p&gt;" style="shape=note;size=13;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="240" y="600" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-26" value="&lt;p style=&quot;line-height: 90%&quot;&gt;&lt;i&gt;Product&lt;/i&gt; led Development&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="120" y="650" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-27" value="&lt;p style=&quot;line-height: 90%&quot;&gt;Product &lt;i&gt;Pipeline&lt;/i&gt; Development&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="600" y="650" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-28" value="&lt;p style=&quot;line-height: 120%&quot;&gt;Single delivery products are rarely recalled &amp;amp; go stale. Regularly updated svcs stay responsive. Think car-factory (pro) versus one-off-car-project-built-in-garage (amateur).&amp;nbsp;&lt;/p&gt;" style="shape=note;size=13;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="240" y="650" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-29" value="&lt;p style=&quot;line-height: 90%&quot;&gt;Designing for Servers&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="120" y="450" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-30" value="&lt;p style=&quot;line-height: 120%&quot;&gt;Design Services first for consumers (those who pay us with attention/money/etc.). Then Partners (those who help distribute and collect payment). Then those&amp;nbsp;we pay...&lt;br&gt;&lt;/p&gt;" style="shape=note;size=13;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="240" y="450" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-31" value="&lt;p style=&quot;line-height: 90%&quot;&gt;Designing for Consumers&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="600" y="450" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QdbNLKzlp7Sa9JjDVJQk-32" value="&lt;font style=&quot;font-size: 12px ; line-height: 100%&quot;&gt;Diagram: Base System Logical Module - Delivery View - &lt;br&gt;HL view of common High Risks for IT Projects for non-IT stakeholders&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="QdbNLKzlp7Sa9JjDVJQk-1">
+          <mxGeometry x="120" y="720" width="560" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

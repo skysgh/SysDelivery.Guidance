@@ -1,0 +1,91 @@
+<mxfile modified="2022-10-26T06:23:31.297Z" host="Electron" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.3.0 Chrome/104.0.5112.114 Electron/20.1.3 Safari/537.36" etag="xiEZlGrTqXeCGZxY7lA2" compressed="false" version="20.3.0" type="device">
+  <diagram id="gWLzc8HoWrIiA_OTBhHQ" name="Functionality/System Logical Module/Reseller Information">
+    <mxGraphModel dx="782" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="sBA49_EScaN9L8MnfF1u-0" />
+        <mxCell id="mp-YWVq82NQ0kQUVbtlE-1" value="Notes" parent="sBA49_EScaN9L8MnfF1u-0" />
+        <mxCell id="mp-YWVq82NQ0kQUVbtlE-0" value="Information including System Hoster Name, &lt;br&gt;Contact channel information, etc.&lt;br&gt;&lt;br&gt;&lt;i&gt;Note: Can also provide an alternate System Title and Description.&lt;/i&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeWidth=1;fillColor=none;fontSize=12;" parent="mp-YWVq82NQ0kQUVbtlE-1" vertex="1">
+          <mxGeometry x="520" y="300" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3LA0_RX8NiAufR82tXQC-1" value="Note that a service may be Sponsored and Developed by one Organisation, and the service reused and distributed by another organisation, with or without custom logical modules." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeWidth=1;fillColor=none;fontSize=12;" parent="mp-YWVq82NQ0kQUVbtlE-1" vertex="1">
+          <mxGeometry x="520" y="200" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="mp-YWVq82NQ0kQUVbtlE-1" source="jmeCoWvmmbcuR7BH7LBC-11" target="jmeCoWvmmbcuR7BH7LBC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-11" value="&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Developer&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="mp-YWVq82NQ0kQUVbtlE-1">
+          <mxGeometry x="240" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-13" value="&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Authorised&lt;br&gt;User&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="mp-YWVq82NQ0kQUVbtlE-1">
+          <mxGeometry x="120" y="270" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-14" value="" style="fontStyle=1;align=left;verticalAlign=top;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="mp-YWVq82NQ0kQUVbtlE-1">
+          <mxGeometry x="360" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-15" value="&lt;p style=&quot;line-height: 0.9;&quot;&gt;Edit Hoster&lt;br&gt;Info&lt;/p&gt;" style="html=1;align=left;spacingLeft=4;verticalAlign=middle;strokeColor=none;fillColor=none;fontStyle=1;spacingTop=2;" vertex="1" parent="jmeCoWvmmbcuR7BH7LBC-14">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-16" value="" style="shape=ellipse;" vertex="1" parent="jmeCoWvmmbcuR7BH7LBC-15">
+          <mxGeometry x="1" width="20" height="10" relative="1" as="geometry">
+            <mxPoint x="-25" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jmeCoWvmmbcuR7BH7LBC-14">
+          <mxGeometry y="20" width="120" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-18" value="- - -" style="html=1;align=left;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;fontSize=8;spacing=-2;" vertex="1" parent="jmeCoWvmmbcuR7BH7LBC-14">
+          <mxGeometry y="28" width="120" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#000000;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mp-YWVq82NQ0kQUVbtlE-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="320" y="240" as="sourcePoint" />
+            <mxPoint x="360" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="mp-YWVq82NQ0kQUVbtlE-1" target="jmeCoWvmmbcuR7BH7LBC-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="340" as="sourcePoint" />
+            <mxPoint x="200" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-21" value="&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;User&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;dashed=0;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="mp-YWVq82NQ0kQUVbtlE-1">
+          <mxGeometry x="240" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-22" value="" style="fontStyle=1;align=left;verticalAlign=top;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;marginBottom=0;" vertex="1" parent="mp-YWVq82NQ0kQUVbtlE-1">
+          <mxGeometry x="360" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-23" value="&lt;p style=&quot;line-height: 0.8;&quot;&gt;Read Hoster&lt;br&gt;Info&lt;/p&gt;" style="html=1;align=left;spacingLeft=4;verticalAlign=middle;strokeColor=none;fillColor=none;fontStyle=1;spacingTop=2;" vertex="1" parent="jmeCoWvmmbcuR7BH7LBC-22">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-24" value="" style="shape=ellipse;" vertex="1" parent="jmeCoWvmmbcuR7BH7LBC-23">
+          <mxGeometry x="1" width="20" height="10" relative="1" as="geometry">
+            <mxPoint x="-25" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-25" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="jmeCoWvmmbcuR7BH7LBC-22">
+          <mxGeometry y="20" width="120" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-26" value="." style="html=1;align=left;spacingLeft=4;verticalAlign=top;strokeColor=none;fillColor=none;fontSize=8;spacing=-2;" vertex="1" parent="jmeCoWvmmbcuR7BH7LBC-22">
+          <mxGeometry y="28" width="120" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="jmeCoWvmmbcuR7BH7LBC-27" value="" style="endArrow=open;endFill=1;endSize=12;html=1;strokeColor=#000000;fontSize=10;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="mp-YWVq82NQ0kQUVbtlE-1" source="jmeCoWvmmbcuR7BH7LBC-21" target="jmeCoWvmmbcuR7BH7LBC-23">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330.0000000000001" y="340" as="sourcePoint" />
+            <mxPoint x="370.0000000000001" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SFFmcM6Vrw80OzDwDq3C-1" value="Diagram/Use Cases" parent="sBA49_EScaN9L8MnfF1u-0" />
+        <mxCell id="M9pi6jsFhLkaiY4Z7a9P-0" value="Title/Diagram" parent="sBA49_EScaN9L8MnfF1u-0" />
+        <mxCell id="M9pi6jsFhLkaiY4Z7a9P-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Diagram: Base System Logical Module - Functionality -&amp;nbsp;&lt;/span&gt;System System Hoster Information&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" parent="M9pi6jsFhLkaiY4Z7a9P-0" vertex="1">
+          <mxGeometry x="120" y="430" width="520" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sBA49_EScaN9L8MnfF1u-1" value="About" parent="sBA49_EScaN9L8MnfF1u-0" />
+        <UserObject label="" tooltip="ABOUT&#xa;&#xa;Reseller information is obviously not apparently needed for most enterprise systems -- but it is actually useful if a lead agency is the Sponsor, but the system is being delivered by multiple agencies. &#xa;You present the Reseller information in Dialogues (as oppossed to the Sponsor)." id="pTDRF1BALwYRada9AKk5-0">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699014-icon-28-information-128.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#505050;dashPattern=1 1;" parent="sBA49_EScaN9L8MnfF1u-1" vertex="1">
+            <mxGeometry x="660" y="430" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,221 @@
+<mxfile modified="2022-05-02T20:21:54.091Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="aUFzqlzoaqFJ4An1nfU1" compressed="false" version="17.5.0" type="google">
+  <diagram name="Qualities/Addressed/Privacy" id="n1Gfr_qRyjA9sANC1yrL">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="nqQqEfnIi_zpkKBRtxPm-0" />
+        <mxCell id="nqQqEfnIi_zpkKBRtxPm-8" value="Diagram" parent="nqQqEfnIi_zpkKBRtxPm-0" />
+        <UserObject label="Replaceability" id="nqQqEfnIi_zpkKBRtxPm-13">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="140" y="280" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Statements" id="nqQqEfnIi_zpkKBRtxPm-14">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="140" y="300" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Use of Data" id="nqQqEfnIi_zpkKBRtxPm-15">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="160" y="320" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Use of Tracking" id="nqQqEfnIi_zpkKBRtxPm-16">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="160" y="400" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Correctability" id="nqQqEfnIi_zpkKBRtxPm-17">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="160" y="460" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Opt-Out" id="nqQqEfnIi_zpkKBRtxPm-18">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="160" y="540" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="RTB Forgotten" id="nqQqEfnIi_zpkKBRtxPm-19">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="160" y="600" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Transcript" id="nqQqEfnIi_zpkKBRtxPm-20">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="160" y="660" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ISO-25010/Privacy" id="nqQqEfnIi_zpkKBRtxPm-25">
+          <mxCell style="strokeColor=#666666;html=1;fontColor=#333333;fontSize=12;align=left;fontStyle=1;fillColor=#CCCCCC;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="120" y="280" width="560" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Quality" id="nqQqEfnIi_zpkKBRtxPm-28">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fillColor=#E6E6E6;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="140" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Feature/Control" id="nqQqEfnIi_zpkKBRtxPm-29">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="160" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Group" id="nqQqEfnIi_zpkKBRtxPm-30">
+          <mxCell style="strokeColor=#666666;html=1;fontColor=#333333;fontSize=12;align=left;horizontal=0;fillColor=#f5f5f5;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="120" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Issue/Risk" id="nqQqEfnIi_zpkKBRtxPm-35">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Users have the right to know the data they provide will not be sold or used for other purposes." id="WDVYigAvkMN-5wIoI_tM-0">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="340" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Risk not being Accreditable." id="WDVYigAvkMN-5wIoI_tM-1">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="440" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="It&#39;s the law in most countries, risking punitive fines.&amp;nbsp;" id="WDVYigAvkMN-5wIoI_tM-2">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="420" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Users have the right to be correct PII &amp;amp; data in systems." id="WDVYigAvkMN-5wIoI_tM-3">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="480" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Having users correct their own data is the cheapest way to ensure improved data quality." id="WDVYigAvkMN-5wIoI_tM-4">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="500" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="It&#39;s the law in most countries to be able to opt out from systems and contact. Punished by fines." id="WDVYigAvkMN-5wIoI_tM-5">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="560" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="European laws extend to covering Europeans using systems outside of Europe.&amp;nbsp;&amp;nbsp;" id="WDVYigAvkMN-5wIoI_tM-6">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="620" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Risk not being Accreditable." id="WDVYigAvkMN-5wIoI_tM-7">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="640" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Risk not being Accreditable." id="WDVYigAvkMN-5wIoI_tM-8">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="580" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="European laws extend to covering Europeans using systems outside of Europe.&amp;nbsp;&amp;nbsp;" id="WDVYigAvkMN-5wIoI_tM-9">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="680" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Risk not being Accreditable." id="WDVYigAvkMN-5wIoI_tM-11">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="700" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Risk not being Accreditable." id="WDVYigAvkMN-5wIoI_tM-12">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="520" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="It&#39;s the law in most countries, risking punitive fines.&amp;nbsp;" id="WDVYigAvkMN-5wIoI_tM-13">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="360" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Risk not being Accreditable." id="WDVYigAvkMN-5wIoI_tM-14">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="180" y="380" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Infrastructure" id="nVzwT-qsoOvTiJ3f3HZD-0">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="600" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info Svc" id="nVzwT-qsoOvTiJ3f3HZD-1">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="640" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info Svc Client" id="nVzwT-qsoOvTiJ3f3HZD-2">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="660" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Delivery Service" id="nVzwT-qsoOvTiJ3f3HZD-3">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="620" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Processes" id="nVzwT-qsoOvTiJ3f3HZD-4">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+            <mxGeometry x="580" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="nVzwT-qsoOvTiJ3f3HZD-5" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+          <mxGeometry x="660" y="320" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nVzwT-qsoOvTiJ3f3HZD-6" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+          <mxGeometry x="640" y="320" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nVzwT-qsoOvTiJ3f3HZD-7" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+          <mxGeometry x="640" y="400" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nVzwT-qsoOvTiJ3f3HZD-8" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+          <mxGeometry x="660" y="400" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nVzwT-qsoOvTiJ3f3HZD-9" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+          <mxGeometry x="640" y="460" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nVzwT-qsoOvTiJ3f3HZD-10" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+          <mxGeometry x="660" y="460" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nVzwT-qsoOvTiJ3f3HZD-11" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+          <mxGeometry x="640" y="540" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nVzwT-qsoOvTiJ3f3HZD-12" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+          <mxGeometry x="660" y="540" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nVzwT-qsoOvTiJ3f3HZD-13" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+          <mxGeometry x="640" y="600" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nVzwT-qsoOvTiJ3f3HZD-14" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+          <mxGeometry x="660" y="600" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nVzwT-qsoOvTiJ3f3HZD-15" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+          <mxGeometry x="640" y="660" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nVzwT-qsoOvTiJ3f3HZD-16" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-8">
+          <mxGeometry x="660" y="660" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nqQqEfnIi_zpkKBRtxPm-6" value="Title/Diagram" parent="nqQqEfnIi_zpkKBRtxPm-0" />
+        <mxCell id="nqQqEfnIi_zpkKBRtxPm-7" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Diagram: Base System Logical Module - Qualities -&amp;nbsp;ISO-25010 Qualities Addressed - Privacy&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-6">
+          <mxGeometry x="120" y="720" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nqQqEfnIi_zpkKBRtxPm-2" value="Title/Page" visible="0" parent="nqQqEfnIi_zpkKBRtxPm-0" />
+        <mxCell id="nqQqEfnIi_zpkKBRtxPm-3" value="" style="group;fontSize=10;" vertex="1" connectable="0" parent="nqQqEfnIi_zpkKBRtxPm-2">
+          <mxGeometry x="120" y="120" width="560" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="nqQqEfnIi_zpkKBRtxPm-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Base Logical Module - Qualities -&amp;nbsp;ISO-25010 Qualities Addressed - Privacy&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-3">
+          <mxGeometry width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nqQqEfnIi_zpkKBRtxPm-5" value="" style="line;strokeWidth=2;html=1;shadow=0;glass=0;comic=0;fillColor=none;fontSize=10;fontColor=#CCCCCC;labelBackgroundColor=none;strokeColor=#CCCCCC;" vertex="1" parent="nqQqEfnIi_zpkKBRtxPm-3">
+          <mxGeometry y="35" width="560" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="nqQqEfnIi_zpkKBRtxPm-1" value="About" parent="nqQqEfnIi_zpkKBRtxPm-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,40 @@
+<mxfile modified="2022-12-01T01:01:31.493Z" host="Electron" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.3.0 Chrome/104.0.5112.114 Electron/20.1.3 Safari/537.36" etag="G9H7FDb2j96yq8UW6z1v" compressed="false" version="20.3.0" type="device">
+  <diagram id="uJewTiHXaNtHGO4uoLR4" name="Constraints/Legal">
+    <mxGraphModel dx="645" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="rhp4sE3xphnoTrhWa3b3-0" />
+        <mxCell id="rhp4sE3xphnoTrhWa3b3-1" parent="rhp4sE3xphnoTrhWa3b3-0" />
+        <mxCell id="rhp4sE3xphnoTrhWa3b3-2" value="Privacy Legislation" style="rounded=0;whiteSpace=wrap;html=1;" parent="rhp4sE3xphnoTrhWa3b3-1" vertex="1">
+          <mxGeometry x="120" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rhp4sE3xphnoTrhWa3b3-4" value="Records Management Legislation" style="rounded=0;whiteSpace=wrap;html=1;" parent="rhp4sE3xphnoTrhWa3b3-1" vertex="1">
+          <mxGeometry x="200" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rhp4sE3xphnoTrhWa3b3-5" value="Sector Specific Legislation" style="rounded=0;whiteSpace=wrap;html=1;" parent="rhp4sE3xphnoTrhWa3b3-1" vertex="1">
+          <mxGeometry x="280" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rhp4sE3xphnoTrhWa3b3-11" value="Laws" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="rhp4sE3xphnoTrhWa3b3-1" vertex="1">
+          <mxGeometry x="120" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rhp4sE3xphnoTrhWa3b3-12" value="Regulations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="rhp4sE3xphnoTrhWa3b3-1" vertex="1">
+          <mxGeometry x="370" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rhp4sE3xphnoTrhWa3b3-14" value="Usability &amp;amp; Accessibility Regulations" style="rounded=0;whiteSpace=wrap;html=1;" parent="rhp4sE3xphnoTrhWa3b3-1" vertex="1">
+          <mxGeometry x="450" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rhp4sE3xphnoTrhWa3b3-16" value="Security Regulations" style="rounded=0;whiteSpace=wrap;html=1;" parent="rhp4sE3xphnoTrhWa3b3-1" vertex="1">
+          <mxGeometry x="530" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rhp4sE3xphnoTrhWa3b3-18" value="Government Service Principles" style="rounded=0;whiteSpace=wrap;html=1;" parent="rhp4sE3xphnoTrhWa3b3-1" vertex="1">
+          <mxGeometry x="610" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S8VxHGN7FgCSHb4pI5Rf-0" value="Standards" style="rounded=0;whiteSpace=wrap;html=1;" parent="rhp4sE3xphnoTrhWa3b3-1" vertex="1">
+          <mxGeometry x="370" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzHZCPZMxvDHkfLBa03D-0" value="Digital Principles" style="rounded=0;whiteSpace=wrap;html=1;" parent="rhp4sE3xphnoTrhWa3b3-1" vertex="1">
+          <mxGeometry x="690" y="160" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
