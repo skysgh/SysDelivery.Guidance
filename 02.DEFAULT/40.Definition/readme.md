@@ -13,4 +13,4 @@ The IIBA's BABOK defines 4 key types of requirements:
 * **System Requirements**, capturing what to build to deliver the capabilities to stakeholders, and to what level of quality
 * **Transitional Requirements**, capturing how to transition from the current state to the target state.
 
-[Guidance](./00.Guidance/readme.md) is provided on how to build these different types of requirements.
+[Guidance](./00.Guidance/) is provided on how to build these different types of requirements.

@@ -18,7 +18,3 @@ Guidance resources are loosely organised into the following groups:
 * **Supporting**
 * **Operating**
 * **Maintaining**
-
-
-## Temp ##
-
