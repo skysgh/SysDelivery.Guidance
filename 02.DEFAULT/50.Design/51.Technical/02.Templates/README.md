@@ -1,3 +1,0 @@
-# Synopsis #
-
-Template docs.
