@@ -1,0 +1,15 @@
+Appendix F – Deletion
+A lot of confusion exists in the sector regarding archiving and erase of personal data. 
+While not all countries are subject to European rules, the GDPR text is still a good place to start:
+The data subject shall have the right to obtain from the controller the erasure of personal data concerning him or her without undue delay and the controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies:
+(a)	the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed;
+(b)	the data subject withdraws consent on which the processing is based according to point (a) of Article 6(1), or point (a) of Article 9(2), and where there is no other legal ground for the processing;
+…
+(e)	the personal data have to be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject;
+
+Of the above:
+-	whereas there is no legal ground for ongoing processing of social media, for example, the purpose of national or credit registries, etc. usually continues regardless of the person’s request.
+-	The term ‘erasure’ is not defined in the GDPR, therefore one must turn to dictionary meanings. It is “an act or instance of erasing. a place where something has been erased; a spot or mark left after erasing.”
+They key aspect to notice is that the space remains.
+A digital equivalent is the erasing of the attributes within a record while retaining the record itself. All data associated to it is no longer personal data as it cannot be associated to a person.
+-	Nor is there a specific detailing of what is not permitted before the erasure. All records associated to the person can first be re-associated to a Unidentified placeholder person, then the original Person’s attributes cleared. 

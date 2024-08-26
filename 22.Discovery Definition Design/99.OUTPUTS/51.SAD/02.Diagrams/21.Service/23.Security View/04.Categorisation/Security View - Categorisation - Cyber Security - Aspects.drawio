@@ -1,0 +1,90 @@
+<mxfile modified="2022-05-02T23:12:16.112Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="TOPzdIWoxCxkZR-doSm2" compressed="false" version="17.5.0" type="google">
+  <diagram id="IhCZKMsya-0lhdjLrku4" name="Security/Cyber Security">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="mfsU343O3ilXnVSqff9g-0" />
+        <mxCell id="mfsU343O3ilXnVSqff9g-1" value="About" parent="mfsU343O3ilXnVSqff9g-0" />
+        <UserObject label="" tooltip="ABOUT&#xa;&#xa;Cyber security uses the same principles as security for millennia. The only difference of late is that we&#39;ve moved from middle age fortress security principles (strong perimeter walls) to more of a nomadic Bedouin trade route security approach.&#xa;&#xa;&#xa;&#xa;In the 1500&#39;s fortress wall approach, once the weary traveler got past the drawbridge guards, one could take off one&#39;s heavy armour. In fact one was told to leave knives and swords at home (only vastly rich households could afford to get an exception to that rule) and rely on central security enforcement. Only to get robbed returning from the inn. The service was clearly not perfect, but advertised as good enough because it was sold as being better than the Unwashed Hordes waiting outside the gate. Nepotism helped one get the Bishop&#39;s dispensations to continue to misbehave. When the town got sacked and robbed of its current religious artifacts, people stopped pilgriming in and business dried up until the cathedral was rebuilt at great cost (it had never been designed to fail, a complete right off). A second hand, backup, relic was dusted off and rolled out. Life regrouped. &#xa;&#xa;    &#xa;&#xa;Whereas nomadic security involves wearing flexible light clothes to move fast and trade across great world-wide-desert distances in different security domains, never stupid enough to take off one&#39;s self-protection. It involved letters of introduction from multiple trusted sources (3rd party identity tokens), sealed and/or encrypted messages (data security data protection in transit) strong small storage boxes (data security protection at rest), scimitars and guards at tent entrances (system security permission enforcement), constant validating and weighing information received (system security validation), and no tribe had the only copy of the Koran and trading books (Disaster Recovery and Biz Continuity).&#xa;&#xa;&#xa;&#xa;A common issue to both is that a bit of coin, or lack of competence, does not exclude the risk of people taking or deleting something of value. Beware of the belly dancer. Continuous monitoring and auditing is recommended!" id="cTgm7OUNQ2Pr5VnJcsSb-0">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699014-icon-28-information-128.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#505050;dashPattern=1 1;" vertex="1" parent="mfsU343O3ilXnVSqff9g-1">
+            <mxGeometry x="660" y="540" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="NFZRC_3fhD9gKN22I6Zk-17" value="Title/Page" visible="0" parent="mfsU343O3ilXnVSqff9g-0" />
+        <mxCell id="NFZRC_3fhD9gKN22I6Zk-0" value="" style="group;fontSize=10;" vertex="1" connectable="0" parent="NFZRC_3fhD9gKN22I6Zk-17">
+          <mxGeometry x="120" y="120" width="560" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NFZRC_3fhD9gKN22I6Zk-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Base Logical Module - Security -&amp;nbsp;Cyber Security Aspects&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="NFZRC_3fhD9gKN22I6Zk-0">
+          <mxGeometry width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NFZRC_3fhD9gKN22I6Zk-2" value="" style="line;strokeWidth=2;html=1;shadow=0;glass=0;comic=0;fillColor=none;fontSize=10;fontColor=#CCCCCC;labelBackgroundColor=none;strokeColor=#CCCCCC;" vertex="1" parent="NFZRC_3fhD9gKN22I6Zk-0">
+          <mxGeometry y="35" width="560" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dG-_0pu9ACflpABz_wng-0" value="Title/Diagram" parent="mfsU343O3ilXnVSqff9g-0" />
+        <mxCell id="dG-_0pu9ACflpABz_wng-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Diagram: Base System Logical Module - Security -&amp;nbsp;Cyber Security Aspects&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="dG-_0pu9ACflpABz_wng-0">
+          <mxGeometry x="120" y="540" width="520" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NFZRC_3fhD9gKN22I6Zk-18" value="Boxes" parent="mfsU343O3ilXnVSqff9g-0" />
+        <UserObject label="&lt;font style=&quot;font-size: 12px&quot;&gt;Behaviour Security&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" id="NFZRC_3fhD9gKN22I6Zk-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;fontSize=12;align=center;horizontal=1;verticalAlign=middle;arcSize=6;container=0;absoluteArcSize=1;recursiveResize=0;" vertex="1" parent="NFZRC_3fhD9gKN22I6Zk-18">
+            <mxGeometry x="120" y="200" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 12px&quot;&gt;Network Security&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" id="NFZRC_3fhD9gKN22I6Zk-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;fontSize=12;align=center;horizontal=1;verticalAlign=middle;arcSize=6;container=0;absoluteArcSize=1;recursiveResize=0;" vertex="1" parent="NFZRC_3fhD9gKN22I6Zk-18">
+            <mxGeometry x="120" y="250" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 12px&quot;&gt;Data Security&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" id="NFZRC_3fhD9gKN22I6Zk-5">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;fontSize=12;align=center;horizontal=1;verticalAlign=middle;arcSize=6;container=0;absoluteArcSize=1;recursiveResize=0;" vertex="1" parent="NFZRC_3fhD9gKN22I6Zk-18">
+            <mxGeometry x="120" y="400" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 12px&quot;&gt;Application/&lt;br&gt;System Security&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" id="NFZRC_3fhD9gKN22I6Zk-7">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;fontSize=12;align=center;horizontal=1;verticalAlign=middle;arcSize=6;container=0;absoluteArcSize=1;recursiveResize=0;" vertex="1" parent="NFZRC_3fhD9gKN22I6Zk-18">
+            <mxGeometry x="120" y="350" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Disaster Recovery &amp;amp; Biz,Continuity&lt;/font&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" id="NFZRC_3fhD9gKN22I6Zk-9">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;fontSize=12;align=center;horizontal=1;verticalAlign=middle;arcSize=6;container=0;absoluteArcSize=1;recursiveResize=0;" vertex="1" parent="NFZRC_3fhD9gKN22I6Zk-18">
+            <mxGeometry x="120" y="450" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 12px&quot;&gt;People are an org&#39;s greatest asset &amp;amp; largest threat.&amp;nbsp;Train wariness of links, attachments &amp;amp; downloads.&amp;nbsp;&amp;nbsp;Audit activities to find gaps and plan. &lt;br&gt;Avoid providing access to Prod Data (including BAs, Testers, Devs, Contractors).&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" id="NFZRC_3fhD9gKN22I6Zk-10">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;fontSize=12;align=left;horizontal=1;verticalAlign=middle;arcSize=6;container=0;absoluteArcSize=1;recursiveResize=0;strokeColor=none;" vertex="1" parent="NFZRC_3fhD9gKN22I6Zk-18">
+            <mxGeometry x="240" y="200" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 12px&quot;&gt;Harden devices as if each is always being used at home, in a cafe, and will be lost. Provide cloud identity, storage and collaboration services to reduce downloading of material. Install AV. Encrypt drives.&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" id="NFZRC_3fhD9gKN22I6Zk-11">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;fontSize=12;align=left;horizontal=1;verticalAlign=middle;arcSize=6;container=0;absoluteArcSize=1;recursiveResize=0;strokeColor=none;" vertex="1" parent="NFZRC_3fhD9gKN22I6Zk-18">
+            <mxGeometry x="240" y="300" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 12px&quot;&gt;Host Security&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" id="NFZRC_3fhD9gKN22I6Zk-12">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;fontSize=12;align=center;horizontal=1;verticalAlign=middle;arcSize=6;container=0;absoluteArcSize=1;recursiveResize=0;" vertex="1" parent="NFZRC_3fhD9gKN22I6Zk-18">
+            <mxGeometry x="120" y="300" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;i&gt;Perimeter&lt;/i&gt; based LAN&amp;nbsp;security&amp;nbsp;approaches to asset protection have been superseded by &lt;i&gt;Identity&lt;/i&gt; based, perimeter-less WAN approaches.&amp;nbsp; But older systems still require network zones, cloud identity access, WAFs, FWs, monitoring.&amp;nbsp;&amp;nbsp;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" id="NFZRC_3fhD9gKN22I6Zk-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;fontSize=12;align=left;horizontal=1;verticalAlign=middle;arcSize=6;container=0;absoluteArcSize=1;recursiveResize=0;strokeColor=none;" vertex="1" parent="NFZRC_3fhD9gKN22I6Zk-18">
+            <mxGeometry x="240" y="250" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 12px&quot;&gt;Protect all systems against unauthorised operation. Identify users using external Identity providers, validate operations against the users permissions, audit all their operations (including Views), validate data and uploads,&amp;nbsp; logical deletes only,&amp;nbsp;&amp;nbsp;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" id="NFZRC_3fhD9gKN22I6Zk-14">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;fontSize=12;align=left;horizontal=1;verticalAlign=middle;arcSize=6;container=0;absoluteArcSize=1;recursiveResize=0;strokeColor=none;" vertex="1" parent="NFZRC_3fhD9gKN22I6Zk-18">
+            <mxGeometry x="240" y="350" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 12px&quot;&gt;Data is the most valuable part of systems and must be protected against access, manipulation or removal in transit, as well as rest. Encrypt communication between all components (internal/external). Encrypt storage: DBs and backups.&amp;nbsp;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" id="NFZRC_3fhD9gKN22I6Zk-15">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;fontSize=12;align=left;horizontal=1;verticalAlign=middle;arcSize=6;container=0;absoluteArcSize=1;recursiveResize=0;strokeColor=none;" vertex="1" parent="NFZRC_3fhD9gKN22I6Zk-18">
+            <mxGeometry x="240" y="400" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 12px&quot;&gt;Data is the most valuable part of systems. Protect it against access, manipulation or removal in transit (encrypt channels between all components (internal/external)) and at rest (Encrypt storage: DBs and backups). Develop and test DR/BC plans.&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;" id="NFZRC_3fhD9gKN22I6Zk-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;fontSize=12;align=left;horizontal=1;verticalAlign=middle;arcSize=6;container=0;absoluteArcSize=1;recursiveResize=0;strokeColor=none;" vertex="1" parent="NFZRC_3fhD9gKN22I6Zk-18">
+            <mxGeometry x="240" y="450" width="440" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

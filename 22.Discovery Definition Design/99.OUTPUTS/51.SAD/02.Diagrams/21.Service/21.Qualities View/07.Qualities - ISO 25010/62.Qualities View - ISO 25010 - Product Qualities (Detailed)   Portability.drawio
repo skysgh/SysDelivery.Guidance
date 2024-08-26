@@ -1,0 +1,224 @@
+<mxfile modified="2022-05-02T20:22:53.082Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="f3VCOlusQpMZQOsDddCS" compressed="false" version="17.5.0" type="google">
+  <diagram name="Qualities/Addressed/Portability" id="JtcnVtgC05jl_6487tuG">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="g-7nWiP3XhAh8ma-HsXR-0" />
+        <mxCell id="DpRK8fpQKC280nfwlxJC-0" value="Title/Diagram" parent="g-7nWiP3XhAh8ma-HsXR-0" />
+        <mxCell id="DpRK8fpQKC280nfwlxJC-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Diagram: Base System Logical Module - Qualities -&amp;nbsp;ISO-25010 Qualities Addressed - Portability&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="DpRK8fpQKC280nfwlxJC-0">
+          <mxGeometry x="120" y="700" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g-7nWiP3XhAh8ma-HsXR-9" value="Boxes" parent="g-7nWiP3XhAh8ma-HsXR-0" />
+        <UserObject label="Replaceability" id="g-7nWiP3XhAh8ma-HsXR-22">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="140" y="910" width="240" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Statements" id="g-7nWiP3XhAh8ma-HsXR-23">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="140" y="930" width="240" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Use of Data" id="g-7nWiP3XhAh8ma-HsXR-24">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="950" width="220" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Use of Tracking" id="g-7nWiP3XhAh8ma-HsXR-25">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="970" width="220" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Correctability" id="g-7nWiP3XhAh8ma-HsXR-26">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="990" width="220" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Opt-Out" id="g-7nWiP3XhAh8ma-HsXR-27">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="1010" width="220" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="RTB Forgotten" id="g-7nWiP3XhAh8ma-HsXR-28">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="1030" width="220" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Transcript" id="g-7nWiP3XhAh8ma-HsXR-29">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="1050" width="220" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Privacy" id="g-7nWiP3XhAh8ma-HsXR-39">
+          <mxCell style="strokeColor=#666666;html=1;fontColor=#333333;fontSize=12;align=left;fontStyle=1;fillColor=#CCCCCC;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="120" y="910" width="260" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Infrastructure" id="6ct5L5rWUsqVFIs-vdqy-0">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="600" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info Svc" id="6ct5L5rWUsqVFIs-vdqy-1">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="640" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info Svc Client" id="6ct5L5rWUsqVFIs-vdqy-2">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="660" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Delivery Service" id="6ct5L5rWUsqVFIs-vdqy-3">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="620" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Processes" id="6ct5L5rWUsqVFIs-vdqy-4">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="580" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Installability" id="g-7nWiP3XhAh8ma-HsXR-18">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;fillColor=#E6E6E6;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="140" y="480" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Provisionability" id="g-7nWiP3XhAh8ma-HsXR-19">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;fillColor=#E6E6E6;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="140" y="540" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Deliverability" id="g-7nWiP3XhAh8ma-HsXR-20">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;fillColor=#E6E6E6;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="140" y="600" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Adaptability" id="g-7nWiP3XhAh8ma-HsXR-21">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;fillColor=#E6E6E6;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="140" y="660" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="C#: can be run on Win &amp;amp; Linux" id="g-7nWiP3XhAh8ma-HsXR-30">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="320" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="APIs can be scripted to import data." id="g-7nWiP3XhAh8ma-HsXR-31">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="560" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Developed as discrete Modules." id="g-7nWiP3XhAh8ma-HsXR-32">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="680" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ISO-25010/Portability" id="g-7nWiP3XhAh8ma-HsXR-38">
+          <mxCell style="strokeColor=#666666;html=1;fontColor=#333333;fontSize=12;align=left;fontStyle=1;fillColor=#CCCCCC;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="120" y="280" width="560" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="PWA UX runs on desktop &amp;amp; mobile." id="g-7nWiP3XhAh8ma-HsXR-40">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="620" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="One-click Deployment by automation (described elswhere)." id="g-7nWiP3XhAh8ma-HsXR-41">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="500" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Quality" id="g-7nWiP3XhAh8ma-HsXR-45">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fillColor=#E6E6E6;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="140" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Feature/Control" id="g-7nWiP3XhAh8ma-HsXR-46">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Group" id="g-7nWiP3XhAh8ma-HsXR-47">
+          <mxCell style="strokeColor=#666666;html=1;fontColor=#333333;fontSize=12;align=left;horizontal=0;fillColor=#f5f5f5;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="120" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Single platform languages limits hosting options.&amp;nbsp;" id="g-7nWiP3XhAh8ma-HsXR-52">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="340" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Or the team must stay on standby for every deployment." id="g-7nWiP3XhAh8ma-HsXR-53">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="180" y="520" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Or one can ETL in records, bypassing validation...leading to data quality issues." id="g-7nWiP3XhAh8ma-HsXR-54">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="180" y="580" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Or one can stick to tried and true desktops (&amp;amp; WinVista)." id="g-7nWiP3XhAh8ma-HsXR-55">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="180" y="640" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Isue/Risk" id="UgI3AtRF_n-_IXqNlMN--0">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="180" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Note: Carefully access use of Java for enterprise development." id="UgI3AtRF_n-_IXqNlMN--1">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="380" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Oracles history of licensing changes must be weighed carefully against immediate benefits." id="UgI3AtRF_n-_IXqNlMN--2">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="180" y="400" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Use of a supported development framework." id="3owQ4XnHbLnxLgMXWlXj-0">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="140" y="420" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Non-compiled languages require being compensation by more mature and extensive testing." id="3owQ4XnHbLnxLgMXWlXj-1">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="360" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Use of a compiled language that is available on multiple platforms." id="3owQ4XnHbLnxLgMXWlXj-2">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="140" y="300" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label=".NET.Core&#39;s Framework provides &lt;u&gt;consistent&lt;/u&gt; results on Win &amp;amp; Linux hosts." id="3owQ4XnHbLnxLgMXWlXj-4">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="460" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Frameworks decrease the effort required and potential bugs to recreate the equivalent from scratch." id="3owQ4XnHbLnxLgMXWlXj-5">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+            <mxGeometry x="160" y="440" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6ct5L5rWUsqVFIs-vdqy-5" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+          <mxGeometry x="640" y="300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6ct5L5rWUsqVFIs-vdqy-7" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+          <mxGeometry x="630" y="500" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6ct5L5rWUsqVFIs-vdqy-8" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+          <mxGeometry x="650" y="560" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6ct5L5rWUsqVFIs-vdqy-9" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+          <mxGeometry x="660" y="620" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6ct5L5rWUsqVFIs-vdqy-10" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="g-7nWiP3XhAh8ma-HsXR-9">
+          <mxGeometry x="580" y="680" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

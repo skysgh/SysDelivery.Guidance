@@ -1,0 +1,77 @@
+<mxfile modified="2023-01-10T03:03:08.950Z" host="Electron" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.3.0 Chrome/104.0.5112.114 Electron/20.1.3 Safari/537.36" etag="qAjS2_z2RcgQIMJnsB6q" compressed="false" version="20.3.0" type="device">
+  <diagram id="AUUctpmowqIS_rZUENnW" name="Testing/User Interface/Capture">
+    <mxGraphModel dx="782" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="GgLKXyPw5yjk1vnNJUZh-0" />
+        <mxCell id="ejPsa-cEc_jQs-8rqAZw-0" value="About" parent="GgLKXyPw5yjk1vnNJUZh-0" />
+        <mxCell id="ejPsa-cEc_jQs-8rqAZw-1" value="Title/Diagram" parent="GgLKXyPw5yjk1vnNJUZh-0" visible="0" />
+        <mxCell id="ejPsa-cEc_jQs-8rqAZw-4" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Diagram: Base System Logical Module - Testing -&amp;nbsp;User Interface - Screen Captures&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" parent="ejPsa-cEc_jQs-8rqAZw-1" vertex="1">
+          <mxGeometry x="120" y="480" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ejPsa-cEc_jQs-8rqAZw-2" value="Title/Page" parent="GgLKXyPw5yjk1vnNJUZh-0" visible="0" />
+        <mxCell id="GPHP-lIkBe6zTyUiEcaD-0" value="" style="group;fontSize=10;" parent="ejPsa-cEc_jQs-8rqAZw-2" connectable="0" vertex="1">
+          <mxGeometry x="120" y="120" width="560" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="GPHP-lIkBe6zTyUiEcaD-1" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Base Logical Module - Testing -&amp;nbsp;User Interface - Screen Captures&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" parent="GPHP-lIkBe6zTyUiEcaD-0" vertex="1">
+          <mxGeometry width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GPHP-lIkBe6zTyUiEcaD-2" value="" style="line;strokeWidth=2;html=1;shadow=0;glass=0;comic=0;fillColor=none;fontSize=10;fontColor=#CCCCCC;labelBackgroundColor=none;strokeColor=#CCCCCC;" parent="GPHP-lIkBe6zTyUiEcaD-0" vertex="1">
+          <mxGeometry y="35" width="560" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GgLKXyPw5yjk1vnNJUZh-1" value="Boxes" parent="GgLKXyPw5yjk1vnNJUZh-0" />
+        <mxCell id="0Y7fEjP1NL9JvfyfzsWA-0" value="Screen Captures" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontSize=12;fontColor=#333333;align=center;" parent="GgLKXyPw5yjk1vnNJUZh-1" vertex="1">
+          <mxGeometry x="120" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Selenium" link="https://www.selenium.dev/" id="0Y7fEjP1NL9JvfyfzsWA-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=none;fontSize=12;fontColor=#333333;align=center;" parent="GgLKXyPw5yjk1vnNJUZh-1" vertex="1">
+            <mxGeometry x="210" y="320" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="0Y7fEjP1NL9JvfyfzsWA-2" value="&lt;i&gt;SaaS services to capture screengrabs of all/part of web pages for recording and later comparison.&lt;/i&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" parent="GgLKXyPw5yjk1vnNJUZh-1" vertex="1">
+          <mxGeometry x="210" y="250" width="470" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="thum.io" link="https://www.thum.io/" id="0Y7fEjP1NL9JvfyfzsWA-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=none;fontSize=12;fontColor=#333333;align=center;" parent="GgLKXyPw5yjk1vnNJUZh-1" vertex="1">
+            <mxGeometry x="300" y="200" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="cloudbrowser&lt;br style=&quot;font-size: 12px;&quot;&gt;.co" link="https://cloudbrowser.co/" id="0Y7fEjP1NL9JvfyfzsWA-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=none;fontSize=12;fontColor=#333333;align=center;" parent="GgLKXyPw5yjk1vnNJUZh-1" vertex="1">
+            <mxGeometry x="390" y="200" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="htmlcsstoimage&lt;br style=&quot;font-size: 11px;&quot;&gt;.com" link="https://htmlcsstoimage.com" id="0Y7fEjP1NL9JvfyfzsWA-5">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=none;fontSize=11;fontColor=#333333;align=center;" parent="GgLKXyPw5yjk1vnNJUZh-1" vertex="1">
+            <mxGeometry x="480" y="200" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="0Y7fEjP1NL9JvfyfzsWA-8" value="Screen Captures" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontSize=12;fontColor=#333333;align=center;" parent="GgLKXyPw5yjk1vnNJUZh-1" vertex="1">
+          <mxGeometry x="120" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0Y7fEjP1NL9JvfyfzsWA-9" value="Test Frameworks" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=#f5f5f5;fontSize=12;fontColor=#333333;align=center;" parent="GgLKXyPw5yjk1vnNJUZh-1" vertex="1">
+          <mxGeometry x="120" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="www2png.com" link="https://www2png.com/" id="0Y7fEjP1NL9JvfyfzsWA-10">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=none;fontSize=12;fontColor=#333333;align=center;" parent="GgLKXyPw5yjk1vnNJUZh-1" vertex="1">
+            <mxGeometry x="210" y="200" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Cyprus" link="https://www.cypress.io/" id="0Y7fEjP1NL9JvfyfzsWA-11">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=none;fontSize=12;fontColor=#333333;align=center;" parent="GgLKXyPw5yjk1vnNJUZh-1" vertex="1">
+            <mxGeometry x="210" y="370" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Galen Framework" link="http://galenframework.com/" id="0Y7fEjP1NL9JvfyfzsWA-12">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=none;fontSize=12;fontColor=#333333;align=center;" parent="GgLKXyPw5yjk1vnNJUZh-1" vertex="1">
+            <mxGeometry x="210" y="420" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Serenity" link="http://www.thucydides.info/#/" id="0Y7fEjP1NL9JvfyfzsWA-13">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=none;fontSize=12;fontColor=#333333;align=center;" parent="GgLKXyPw5yjk1vnNJUZh-1" vertex="1">
+            <mxGeometry x="300" y="320" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

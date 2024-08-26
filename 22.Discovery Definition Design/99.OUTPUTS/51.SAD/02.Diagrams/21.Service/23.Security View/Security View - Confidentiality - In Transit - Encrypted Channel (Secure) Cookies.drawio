@@ -1,0 +1,49 @@
+<mxfile modified="2022-05-02T22:15:33.933Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="ivMt5XuOTMADO5lLNMw6" compressed="false" version="17.5.0" type="google">
+  <diagram id="1LIApNnDRq44fEWUmpOO" name="Security/In Transit/Safe Cookie interactions">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="A1i_Is5HmfaZvSWwU59Z-0" />
+        <mxCell id="A1i_Is5HmfaZvSWwU59Z-1" parent="A1i_Is5HmfaZvSWwU59Z-0" />
+        <mxCell id="oI_sypxUYn1KWRAEVbvT-0" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Diagram: Base&amp;nbsp;&lt;/span&gt;System&amp;nbsp;&lt;span style=&quot;font-size: 12px&quot;&gt;Logical Module -&amp;nbsp;&lt;/span&gt;Security - In Transit - Secure Cookies&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="A1i_Is5HmfaZvSWwU59Z-1">
+          <mxGeometry x="120" y="700" width="520" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oI_sypxUYn1KWRAEVbvT-1" value="Service Client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="A1i_Is5HmfaZvSWwU59Z-1">
+          <mxGeometry x="200" y="440" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oI_sypxUYn1KWRAEVbvT-2" value="Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="A1i_Is5HmfaZvSWwU59Z-1">
+          <mxGeometry x="400" y="440" width="90" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="oI_sypxUYn1KWRAEVbvT-3" value="HTTP (insecure) request&lt;br&gt;cookies with secure flag&amp;nbsp;&lt;br&gt;are held back &amp;amp; not sent" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="A1i_Is5HmfaZvSWwU59Z-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="244.92857142857144" y="530" as="sourcePoint" />
+            <mxPoint x="444.5" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oI_sypxUYn1KWRAEVbvT-5" value="HTTP 302 Redirect" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="A1i_Is5HmfaZvSWwU59Z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444.5" y="559.71" as="sourcePoint" />
+            <mxPoint x="244.92857142857144" y="559.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oI_sypxUYn1KWRAEVbvT-6" value="HTTPS (secure) request&lt;br&gt;resent, &lt;br&gt;with cookie this time" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="A1i_Is5HmfaZvSWwU59Z-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="244.92857142857144" y="610" as="sourcePoint" />
+            <mxPoint x="444.5" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oI_sypxUYn1KWRAEVbvT-8" value="More Info:&lt;br&gt;https://owasp.org/www-community/controls/SecureFlag" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="A1i_Is5HmfaZvSWwU59Z-1">
+          <mxGeometry x="490" y="590" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oI_sypxUYn1KWRAEVbvT-9" value="HTTP 200" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="A1i_Is5HmfaZvSWwU59Z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444.5" y="639.71" as="sourcePoint" />
+            <mxPoint x="244.92857142857144" y="639.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

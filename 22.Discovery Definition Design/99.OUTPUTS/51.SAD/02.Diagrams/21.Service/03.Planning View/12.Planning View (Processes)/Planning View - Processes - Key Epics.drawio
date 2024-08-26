@@ -1,0 +1,102 @@
+<mxfile modified="2022-05-02T00:19:26.871Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="byLyL6pFbVM_z1zOV1mx" compressed="false" version="17.5.0" type="google">
+  <diagram id="g4MAdxxYuRXmNnaNQQr1" name="Key Epics">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-0" />
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-1" parent="6Cev1fCJjsmsLKHIjfR7-0" />
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-2" value="Funding" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="280" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-3" value="Pilots fail to delivery innovation as they already had their risk mitigated out." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="240" y="460" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-4" value="Rollout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-5" value="Policy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="260" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-6" value="If funding priorities change, next phase dev&#39;ment will be put on hold/terminated.&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="240" y="280" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-7" value="If policies change, prioritisation of project/funding may change/be terminated." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="240" y="260" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-8" value="Market" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-9" value="If market meets need, custom develop may require adaption/termination." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="240" y="300" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-10" value="Measuring" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="440" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-11" value="If measuring &amp;amp; progress cannot be demonstrated, funding may be impacted." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="240" y="440" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-12" value="Strategy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="240" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-13" value="Capability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="340" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-14" value="Procurement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="320" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-15" value="Delivery Mgmt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="420" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-16" value="Descoping can make a project impossible to achieve results." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="240" y="420" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-17" value="Communication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="480" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-18" value="If progress happens, but is not communicated, funding may be impacted." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="240" y="480" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-19" value="Systemic design" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-20" value="Disconnection from other projects can lead to isolated thinking &amp;amp; lower value." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="240" y="360" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-21" value="Local capability to develop, enhance&amp;nbsp; or support a solution may not be available." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="240" y="340" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-22" value="If procurement focuses on process, rather than outcome, solutions are not met." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="240" y="320" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-23" value="Lifecycle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="380" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-24" value="Planning for deployment only misses planning for the &lt;i&gt;whole&lt;/i&gt; service lifecycle." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="240" y="380" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-25" value="Project space" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="400" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-26" value="Lack of a full-lifecycle workitem mgmt area leads to lost time, missed outcomes." style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="240" y="400" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-27" value="&lt;font style=&quot;font-size: 11px&quot;&gt;If strategic objectives change, project prioritisation/funding may change/be terminated.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="240" y="240" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-28" value="Area" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-29" value="High Level example of Impact" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="240" y="220" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6Cev1fCJjsmsLKHIjfR7-30" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;Diagram: &lt;/span&gt;System Context - Indicative Deployment Epics&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+          <mxGeometry x="120" y="540" width="520" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="" tooltip="The system will be delivered iteratively via different streams that interact at certain points. &#xa;The above is only an indicative diagram of what functionality is expected in each iteration.&#xa;Note that the first sprint is used for design. Not all-up-front design, but the best guess as to the core aspects of the system, including Sessions, Users, Tenancies, Members, Permissions, Roles, Media -- stuff that is more or less the same from System to System.&#xa;&#xa;As development progresses, decisions made by concensus make it into the development, and are recorded in the SAD.&#xa;&#xa;Think of it much as the original Blueprints define where the house, plumbing, elect goes. But as the flooring gets decided, and the paint colour, fixtures, etc. get figured out and worked on in an agile way, they too get done and recorded. &#xa;But never let your devs/carpenters go wild, without a blueprint/base plan. At least not with my mortgage (but yours...?)" id="6Cev1fCJjsmsLKHIjfR7-31">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699014-icon-28-information-128.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#505050;" vertex="1" parent="6Cev1fCJjsmsLKHIjfR7-1">
+            <mxGeometry x="660" y="540" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

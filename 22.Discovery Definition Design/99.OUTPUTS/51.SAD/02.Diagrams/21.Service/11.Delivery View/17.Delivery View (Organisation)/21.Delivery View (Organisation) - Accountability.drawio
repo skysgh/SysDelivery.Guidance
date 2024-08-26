@@ -1,0 +1,197 @@
+<mxfile modified="2021-05-07T00:08:32.901Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="N0V1ZygOiky_jUI-TXwD" compressed="false" version="14.6.9" type="google" pages="4">
+  <diagram id="7jLlEumUiMLtJq0d6O2o" name="DELIVERY MANAGEMENT VIEW">
+    <mxGraphModel dx="1711" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="R8PEM5ubBwQ5RRjLXsm--0" />
+        <mxCell id="R8PEM5ubBwQ5RRjLXsm--1" parent="R8PEM5ubBwQ5RRjLXsm--0" />
+        <mxCell id="l9LYidoEel3wWBmEn9x7-0" value="Delivery Management&lt;br&gt;&amp;nbsp;View" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;opacity=30;" parent="R8PEM5ubBwQ5RRjLXsm--1" vertex="1">
+          <mxGeometry x="160" y="200" width="480" height="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yl0ZKEAYSLeZxVA6wL_t" name="Accountability">
+    <mxGraphModel dx="1711" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="hgGfdGmIWdvVnXu_-jgn-0" />
+        <mxCell id="hgGfdGmIWdvVnXu_-jgn-1" parent="hgGfdGmIWdvVnXu_-jgn-0" />
+        <mxCell id="hgGfdGmIWdvVnXu_-jgn-2" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;" parent="hgGfdGmIWdvVnXu_-jgn-1" source="hgGfdGmIWdvVnXu_-jgn-3" target="hgGfdGmIWdvVnXu_-jgn-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hgGfdGmIWdvVnXu_-jgn-3" value="Controls" style="rounded=0;whiteSpace=wrap;html=1;" parent="hgGfdGmIWdvVnXu_-jgn-1" vertex="1">
+          <mxGeometry x="120" y="280" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hgGfdGmIWdvVnXu_-jgn-4" value="Decision Journal" style="rounded=0;whiteSpace=wrap;html=1;" parent="hgGfdGmIWdvVnXu_-jgn-1" vertex="1">
+          <mxGeometry x="290" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hgGfdGmIWdvVnXu_-jgn-5" value="Risk Register" style="rounded=0;whiteSpace=wrap;html=1;" parent="hgGfdGmIWdvVnXu_-jgn-1" vertex="1">
+          <mxGeometry x="290" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hgGfdGmIWdvVnXu_-jgn-6" value="Debt Register" style="rounded=0;whiteSpace=wrap;html=1;" parent="hgGfdGmIWdvVnXu_-jgn-1" vertex="1">
+          <mxGeometry x="290" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hgGfdGmIWdvVnXu_-jgn-7" value="Change Log" style="rounded=0;whiteSpace=wrap;html=1;" parent="hgGfdGmIWdvVnXu_-jgn-1" vertex="1">
+          <mxGeometry x="290" y="350" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hgGfdGmIWdvVnXu_-jgn-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="hgGfdGmIWdvVnXu_-jgn-1" source="hgGfdGmIWdvVnXu_-jgn-3" target="hgGfdGmIWdvVnXu_-jgn-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="300" as="sourcePoint" />
+            <mxPoint x="300" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgGfdGmIWdvVnXu_-jgn-9" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="hgGfdGmIWdvVnXu_-jgn-1" source="hgGfdGmIWdvVnXu_-jgn-3" target="hgGfdGmIWdvVnXu_-jgn-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="300" as="sourcePoint" />
+            <mxPoint x="300" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgGfdGmIWdvVnXu_-jgn-10" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=0;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="hgGfdGmIWdvVnXu_-jgn-1" source="hgGfdGmIWdvVnXu_-jgn-3" target="hgGfdGmIWdvVnXu_-jgn-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="300" as="sourcePoint" />
+            <mxPoint x="300" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hgGfdGmIWdvVnXu_-jgn-29" value="&lt;font style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;&lt;i&gt;Diagram: Delivery Management - Auditing&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" parent="hgGfdGmIWdvVnXu_-jgn-1" vertex="1">
+          <mxGeometry x="120" y="420" width="560" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SPJ6mPVbeGqIl3z98Dk_" name="ALM">
+    <mxGraphModel dx="1711" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-0" />
+        <mxCell id="LWCe4CTQDddyaw6rfD43-1" parent="LWCe4CTQDddyaw6rfD43-0" />
+        <UserObject label="" tooltip="ABOUT&#xa;&#xa;Modern software is developed using a suite of services.&#xa;&#xa;&#xa;&#xa;Application Lifecylce Management (ALM) Suites bring these services together into an easily navigated set of tools.&#xa;&#xa;" id="LWCe4CTQDddyaw6rfD43-2">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699014-icon-28-information-128.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#505050;dashPattern=1 1;" vertex="1" parent="LWCe4CTQDddyaw6rfD43-1">
+            <mxGeometry x="660" y="470" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-3" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Diagram: Delivery - Application Lifecycle Management (ALM)&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="LWCe4CTQDddyaw6rfD43-1">
+          <mxGeometry x="120" y="470" width="522.67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-4" value="Work Item Management Service" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=none;fontSize=12;fontColor=#333333;align=center;" vertex="1" parent="LWCe4CTQDddyaw6rfD43-1">
+          <mxGeometry x="130" y="270" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-5" value="Code Management Service" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=none;fontSize=12;fontColor=#333333;align=center;" vertex="1" parent="LWCe4CTQDddyaw6rfD43-1">
+          <mxGeometry x="250" y="270" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-6" value="Build Pipeline Management Service" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=none;fontSize=12;fontColor=#333333;align=center;" vertex="1" parent="LWCe4CTQDddyaw6rfD43-1">
+          <mxGeometry x="370" y="270" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-7" value="&lt;p style=&quot;line-height: 90%&quot;&gt;Delivery Pipeline Management Service&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=1;fillColor=none;fontSize=12;fontColor=#333333;align=center;" vertex="1" parent="LWCe4CTQDddyaw6rfD43-1">
+          <mxGeometry x="490" y="270" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=1;endArrow=none;endFill=0;fontSize=10;" edge="1" parent="LWCe4CTQDddyaw6rfD43-1" source="LWCe4CTQDddyaw6rfD43-9" target="LWCe4CTQDddyaw6rfD43-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-9" value="&lt;font style=&quot;font-size: 12px ; line-height: 80%&quot;&gt;Application Lifecycle Management Service Suite&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;fillColor=none;fontSize=10;fontColor=#333333;align=center;spacing=0;" vertex="1" parent="LWCe4CTQDddyaw6rfD43-1">
+          <mxGeometry x="290" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=1;endArrow=none;endFill=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="LWCe4CTQDddyaw6rfD43-1" source="LWCe4CTQDddyaw6rfD43-9" target="LWCe4CTQDddyaw6rfD43-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="230" as="sourcePoint" />
+            <mxPoint x="180" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=1;endArrow=none;endFill=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="LWCe4CTQDddyaw6rfD43-1" source="LWCe4CTQDddyaw6rfD43-9" target="LWCe4CTQDddyaw6rfD43-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="240" as="sourcePoint" />
+            <mxPoint x="190" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="LWCe4CTQDddyaw6rfD43-1" source="LWCe4CTQDddyaw6rfD43-9" target="LWCe4CTQDddyaw6rfD43-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="250" as="sourcePoint" />
+            <mxPoint x="200" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-13" value="Text" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="LWCe4CTQDddyaw6rfD43-1">
+          <mxGeometry x="415" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=10;" edge="1" parent="LWCe4CTQDddyaw6rfD43-1" source="LWCe4CTQDddyaw6rfD43-15" target="LWCe4CTQDddyaw6rfD43-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-15" value="For &lt;br style=&quot;font-size: 11px;&quot;&gt;managing team user-stories from backlog, through design, development, deployment, and done." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=11;" vertex="1" parent="LWCe4CTQDddyaw6rfD43-1">
+          <mxGeometry x="120" y="330" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=10;" edge="1" parent="LWCe4CTQDddyaw6rfD43-1" source="LWCe4CTQDddyaw6rfD43-17" target="LWCe4CTQDddyaw6rfD43-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-17" value="For checking out, working on and committing back code to a common repository, tagged to the workitem they are addressing." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=11;" vertex="1" parent="LWCe4CTQDddyaw6rfD43-1">
+          <mxGeometry x="240" y="330" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=10;" edge="1" parent="LWCe4CTQDddyaw6rfD43-1" source="LWCe4CTQDddyaw6rfD43-19" target="LWCe4CTQDddyaw6rfD43-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-19" value="Automation &lt;br style=&quot;font-size: 11px;&quot;&gt;to compile code, unit test it, package it for deployment, deploy to a BT environment, run functional tests, to accept the code or reject it." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=11;" vertex="1" parent="LWCe4CTQDddyaw6rfD43-1">
+          <mxGeometry x="360" y="330" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=10;" edge="1" parent="LWCe4CTQDddyaw6rfD43-1" source="LWCe4CTQDddyaw6rfD43-21" target="LWCe4CTQDddyaw6rfD43-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LWCe4CTQDddyaw6rfD43-21" value="Automation &lt;br style=&quot;font-size: 11px;&quot;&gt;to deploy to target environments (ST, UT, PROD environments) previously built build packages." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fontSize=11;" vertex="1" parent="LWCe4CTQDddyaw6rfD43-1">
+          <mxGeometry x="480" y="330" width="100" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="63efnpfhjBeaJRxoVKwO" name="ALM">
+    <mxGraphModel dx="1711" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-0" />
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-1" parent="Icv7V-INTxjaTtf2iz2I-0" />
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Icv7V-INTxjaTtf2iz2I-1" source="Icv7V-INTxjaTtf2iz2I-7" target="Icv7V-INTxjaTtf2iz2I-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Icv7V-INTxjaTtf2iz2I-1" source="Icv7V-INTxjaTtf2iz2I-7" target="Icv7V-INTxjaTtf2iz2I-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Icv7V-INTxjaTtf2iz2I-1" source="Icv7V-INTxjaTtf2iz2I-7" target="Icv7V-INTxjaTtf2iz2I-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Icv7V-INTxjaTtf2iz2I-1" source="Icv7V-INTxjaTtf2iz2I-7" target="Icv7V-INTxjaTtf2iz2I-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Icv7V-INTxjaTtf2iz2I-1" source="Icv7V-INTxjaTtf2iz2I-7" target="Icv7V-INTxjaTtf2iz2I-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-7" value="Intetgrated Application Lifecycle Management Service (Suite)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="320" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-8" value="WorkItem (Task) Management&lt;br&gt;Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="260" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-9" value="Code Repository Management Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="360" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-10" value="Build &amp;amp; Deployment Workflow Management Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="460" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-11" value="Test Task Management&lt;br&gt;Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="560" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-12" value="(Design, Development) Documentation&lt;br&gt;Management Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="160" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Diagram: Delivery - ALM Integrated Services&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="120" y="380" width="520" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-14" value="Initial Development" style="shape=flexArrow;endArrow=classic;html=1;endWidth=10;endSize=2.33;strokeColor=#6c8ebf;fillColor=#99CCFF;" edge="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="0.6" y="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="360" as="sourcePoint" />
+            <mxPoint x="210" y="360" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-15" value="Iterative, Full Service Lifecycle Delivery" style="shape=flexArrow;endArrow=classic;html=1;endWidth=10;endSize=2.33;strokeColor=#d79b00;gradientDirection=east;gradientColor=#FFE599;fillColor=#99CCFF;" edge="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry y="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="360" as="sourcePoint" />
+            <mxPoint x="640" y="360" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

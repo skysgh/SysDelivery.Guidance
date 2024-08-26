@@ -1,0 +1,60 @@
+<mxfile modified="2022-05-02T11:11:08.344Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="lQtJnEZZHQO3LzdWHEpZ" compressed="false" version="17.5.0" type="google">
+  <diagram id="170rknu374f0b95sGflI" name="Page-10">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-0" />
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-1" parent="JUh6I-CuX6oN9qm_zONl-0" />
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-2" value="&lt;font color=&quot;#990000&quot;&gt;Warning: &lt;br&gt;Agile methodology recommends focus on early deliveries. &lt;br&gt;This immediacy and focus on &lt;i&gt;delivery&lt;/i&gt; risks deferring the development and management of information required to manage the service over its &lt;i&gt;whole&lt;/i&gt; service lifespan (drive included). &lt;br&gt;&lt;br&gt;Yet the duration of the &lt;i&gt;drive&lt;/i&gt; process is a magnitude larger than the &lt;i&gt;development&lt;/i&gt; process, and both staff turnover over this long period, combined with incomplete information on the system has considerable risk and cost implications.&amp;nbsp;&lt;br&gt;&lt;br&gt;The preferred solution to mitigate these risks and costs is &quot;Hand over to Automation&quot; rather than &quot;Hand over to [manual] Operations&quot;. &lt;br&gt;&lt;br&gt;In other words, use an automated delivery pipeline to encode and automate the proving that agreed functional, quality and agreement constraints are met throughout the service lifetime -- long after the original workforce and associated development and testing knowledge has moved on.&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;strokeColor=#666666;fillColor=#f5f5f5;fontSize=12;opacity=33;fontColor=#333333;" vertex="1" parent="JUh6I-CuX6oN9qm_zONl-1">
+          <mxGeometry x="120" y="440" width="560" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-3" value="Agile Iterative Delivery to match rate of Requirements Volatility" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;dashed=1;verticalAlign=top;align=left;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="JUh6I-CuX6oN9qm_zONl-1">
+          <mxGeometry x="130" y="210" width="550" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-4" value="Define" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Helvetica;fillColor=#CCCCCC;strokeColor=none;fontColor=#333333;fontStyle=1;gradientColor=#ffffff;gradientDirection=east;" vertex="1" parent="JUh6I-CuX6oN9qm_zONl-3">
+          <mxGeometry x="50" y="80" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-5" value="Design" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Helvetica;fontColor=#333333;fillColor=#CCCCCC;strokeColor=none;fontStyle=1;gradientColor=#ffffff;gradientDirection=east;" vertex="1" parent="JUh6I-CuX6oN9qm_zONl-3">
+          <mxGeometry x="70" y="110" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-6" value="Delivery" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Helvetica;fontColor=#333333;fillColor=#CCCCCC;strokeColor=none;fontStyle=1;dashed=1;dashPattern=1 1;gradientColor=#FAFAFA;gradientDirection=east;" vertex="1" parent="JUh6I-CuX6oN9qm_zONl-3">
+          <mxGeometry x="110" y="140" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-7" value="&lt;b&gt;Drive &lt;/b&gt;(&lt;i&gt;Operate&lt;/i&gt;)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Helvetica;fontColor=#333333;fillColor=#CCCCCC;strokeColor=none;gradientColor=#FAFAFA;gradientDirection=east;" vertex="1" parent="JUh6I-CuX6oN9qm_zONl-3">
+          <mxGeometry x="170" y="170" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-8" value="Discovery" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Helvetica;fontColor=#333333;fillColor=#CCCCCC;strokeColor=none;fontStyle=1;gradientColor=#ffffff;gradientDirection=east;" vertex="1" parent="JUh6I-CuX6oN9qm_zONl-3">
+          <mxGeometry x="40" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-9" value="&lt;br style=&quot;font-size: 10px;&quot;&gt;First Release" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=none;gradientColor=#FAFAFA;fontSize=10;opacity=33;align=center;verticalAlign=top;" vertex="1" parent="JUh6I-CuX6oN9qm_zONl-3">
+          <mxGeometry x="120" y="160" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-10" value="Measured in &lt;u&gt;&lt;i&gt;fortnights&lt;/i&gt;&lt;/u&gt;" style="endArrow=block;html=1;endFill=1;" edge="1" parent="JUh6I-CuX6oN9qm_zONl-1">
+          <mxGeometry x="-0.2308" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="190" as="sourcePoint" />
+            <mxPoint x="250" y="190" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-11" value="Direction" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Helvetica;fontColor=#333333;fillColor=#CCCCCC;strokeColor=none;fontStyle=1;gradientColor=#FCFCFC;gradientDirection=east;" vertex="1" parent="JUh6I-CuX6oN9qm_zONl-1">
+          <mxGeometry x="120" y="230" width="550" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-12" value="Measured in &lt;u&gt;&lt;i&gt;Years&lt;/i&gt;&lt;/u&gt;" style="endArrow=block;html=1;endFill=1;" edge="1" parent="JUh6I-CuX6oN9qm_zONl-1">
+          <mxGeometry x="-0.2308" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="200" as="sourcePoint" />
+            <mxPoint x="680" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="200" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-13" value="&lt;font style=&quot;font-size: 8px ; font-weight: normal&quot;&gt;Disestablish&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Helvetica;fontColor=#333333;fillColor=#f5f5f5;strokeColor=none;fontStyle=1" vertex="1" parent="JUh6I-CuX6oN9qm_zONl-1">
+          <mxGeometry x="630" y="420" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JUh6I-CuX6oN9qm_zONl-14" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Diagram: Information - Principle Information Areas over Service Lifetime&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="JUh6I-CuX6oN9qm_zONl-1">
+          <mxGeometry x="120" y="660" width="440" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

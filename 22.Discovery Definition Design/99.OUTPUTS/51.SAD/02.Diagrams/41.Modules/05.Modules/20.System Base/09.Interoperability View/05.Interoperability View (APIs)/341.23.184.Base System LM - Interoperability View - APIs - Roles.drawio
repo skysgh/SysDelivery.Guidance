@@ -1,0 +1,135 @@
+<mxfile modified="2022-05-20T02:23:31.436Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="tBCRatLWq39tWkLGggbx" compressed="false" version="18.0.8" type="google">
+  <diagram name="Integration/System Logical Module/API/Resource URLs/Roles" id="7p_q0p4EtKXrwut6PNrY">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-0" />
+        <mxCell id="KzqNOqEnGWoy3LytE59G-1" parent="KzqNOqEnGWoy3LytE59G-0" />
+        <mxCell id="KzqNOqEnGWoy3LytE59G-2" value="List Roles&amp;nbsp;(within current Tenancy)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="400" y="300" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-3" value="Roles" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="160" y="300" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-4" value="Roles/{uuid}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="160" y="400" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-5" value="View Role {uuid}. Using common non-standard notation." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="400" y="400" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-6" value="GET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="120" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-7" value="GET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="120" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-8" value="POST" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="120" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-9" value="Roles" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="160" y="440" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-10" value="POST" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="120" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-11" value="Roles(&#39;{uuid}&#39;)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="160" y="460" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-12" value="Create Role, server side generated Id. &lt;b style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 11px&quot;&gt;&lt;u style=&quot;font-size: 11px&quot;&gt;NOT&lt;/u&gt;&lt;/font&gt; &lt;/b&gt;recommended." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="400" y="440" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-13" value="Create Role, client side generated UUID. &lt;font color=&quot;#009900&quot; size=&quot;1&quot;&gt;&lt;b&gt;RECOMMENDED&lt;/b&gt;&lt;/font&gt;." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="400" y="460" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-14" value="PUT" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="120" y="420" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-15" value="Roles(&#39;{uuid}&#39;)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="160" y="420" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-16" value="Edit Role {uuid}. Using ODATA Standard notation." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="400" y="420" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-17" value="DELETE" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="120" y="480" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-18" value="Roles(&#39;{uuid}&#39;)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="160" y="480" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-19" value="Delete Role {uuid}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="400" y="480" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-21" value="List Roles, page 3, using ODATA standard filter arguments." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="400" y="340" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-22" value="Roles?$top=80&amp;amp;$skip=60" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="160" y="340" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-23" value="GET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="120" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-24" value="Count Roles, using ODATA standard filter arguments." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="400" y="320" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-25" value="Roles?$count=true" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="160" y="320" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-26" value="GET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="120" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-142" value="List Roles that meet a custom search constraint." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="400" y="360" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-143" value="Roles$search=xyz" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="160" y="360" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-144" value="GET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="120" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-186" value="Description" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=#333333;fontStyle=0" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="400" y="200" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-187" value="URL" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=#333333;fontStyle=0" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="160" y="200" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-188" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;VERB&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Helvetica;fontColor=#333333;fontStyle=0" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="120" y="200" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-189" value="&lt;font style=&quot;font-size: 9px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;SummaryItems&lt;/span&gt;?$search=Role,abc:xyz&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=9;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="160" y="260" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-190" value="GET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="120" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-191" value="&lt;font style=&quot;font-size: 10px&quot;&gt;SummaryItems?$search=Role:xyz&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="160" y="240" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-192" value="GET" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;fontFamily=Courier New;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="120" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-193" value="List SummaryItems of type Role custom matching xyz" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="400" y="240" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-194" value="&lt;font style=&quot;font-size: 11px&quot;&gt;List SummaryItems of type Role &amp;amp; abc custom matching xyz&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-1">
+          <mxGeometry x="400" y="260" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-204" value="Diagram" parent="KzqNOqEnGWoy3LytE59G-0" />
+        <mxCell id="KzqNOqEnGWoy3LytE59G-205" value="Context/Legend" parent="KzqNOqEnGWoy3LytE59G-0" />
+        <mxCell id="KzqNOqEnGWoy3LytE59G-206" value="Title/Diagram" parent="KzqNOqEnGWoy3LytE59G-0" />
+        <mxCell id="KzqNOqEnGWoy3LytE59G-207" value="&lt;font style=&quot;font-size: 12px ; font-weight: normal&quot;&gt;&lt;i&gt;Diagram: Base System Logical Module -&amp;nbsp;&lt;/i&gt;&lt;i&gt;Interoperability&amp;nbsp;&lt;/i&gt;&lt;i&gt;- APIs - Role&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=1;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-206">
+          <mxGeometry x="120" y="520" width="560" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-208" value="Title/Page" visible="0" parent="KzqNOqEnGWoy3LytE59G-0" />
+        <mxCell id="KzqNOqEnGWoy3LytE59G-209" value="" style="group;fontSize=12;" vertex="1" connectable="0" parent="KzqNOqEnGWoy3LytE59G-208">
+          <mxGeometry x="120" y="120" width="600" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-210" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Base Logical Module - Interoperability&amp;nbsp;- APIs - Role&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=1;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-209">
+          <mxGeometry y="20" width="600" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-211" value="" style="line;strokeWidth=2;html=1;shadow=0;glass=0;comic=0;fillColor=none;fontSize=10;fontColor=#CCCCCC;labelBackgroundColor=none;strokeColor=#CCCCCC;" vertex="1" parent="KzqNOqEnGWoy3LytE59G-209">
+          <mxGeometry y="35" width="600" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KzqNOqEnGWoy3LytE59G-212" value="About" parent="KzqNOqEnGWoy3LytE59G-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

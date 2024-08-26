@@ -1,0 +1,73 @@
+<mxfile host="Electron" modified="2024-08-20T20:32:47.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="7dLOPtRUg1ZDa2Vzw9kL" version="22.1.18" type="device">
+  <diagram name="Page-1" id="irLYFfWBFKqO6sEYjNZ6">
+    <mxGraphModel dx="1434" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-9" value="&lt;b&gt;Interfaces Domain&lt;/b&gt;&lt;br&gt;(Making it all Available)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="170" width="220" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-11" value="&lt;b&gt;System Operations Domain&lt;/b&gt;&lt;br&gt;(Diagnostics, Errors, Configuration, Notifications, Workflow Engines)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="380" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-12" value="&lt;b&gt;System Users Domain&lt;/b&gt;&lt;br&gt;(Users and their Sessions of Requests within &amp;amp; across Tenancies)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="330" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-13" value="&lt;b&gt;Individuals Domain&lt;/b&gt;&lt;br&gt;(Persons, Identities, Profiles)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-14" value="&lt;b&gt;Social Domain&lt;/b&gt;&lt;br&gt;(Inter-Person Relationships, &lt;br&gt;Groups &amp;amp; Roles in Group)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-15" value="&lt;b&gt;Resources Domain&lt;/b&gt;&lt;br&gt;(Records, Metadata, State, Versioning, Contribution, Workflows)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-16" value="&lt;b&gt;System Infrastructure Domain&lt;/b&gt;&lt;br&gt;(Storage, System Configuration)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="430" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-18" value="Learner Profiles, &lt;br&gt;School Profiles,&lt;br&gt;Enrollment, Attendance, etc." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="180" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-19" value="Parents, Caregivers, Siblings, Teachers, etc.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="230" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-20" value="Their Identities, Identifiers (including Names), Demographics Profile, ertc.&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-21" value="User, Requests, Sessions, System Roles &amp;amp; Permissions&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="330" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-22" value="Diagnostic Trace logs, Error Records, Configuration, Emails, Messages, etc." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="380" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-23" value="Settings, Integrations, Caching, Storage" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="430" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-24" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;Customer Specific Validating &amp;amp; Rendering&lt;br&gt;Status, Context, Records&amp;nbsp;&lt;br&gt;(Single, Sets &amp;amp; Summaries)&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-25" value="0" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontStyle=1;arcSize=50;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="430" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-26" value="+1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontStyle=1;arcSize=50;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="380" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-27" value="+2" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontStyle=1;arcSize=50;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="330" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-28" value="+3" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontStyle=1;arcSize=50;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="280" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-29" value="+4" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontStyle=1;arcSize=50;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="230" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="XH5yF4Rd17BQlnJ4REQr-30" value="+5" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontStyle=1;arcSize=50;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="180" width="30" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

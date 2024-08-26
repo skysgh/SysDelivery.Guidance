@@ -1,0 +1,60 @@
+<mxfile modified="2022-05-02T11:29:59.644Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="ALQiQvGH_qGourVkjpc3" compressed="false" version="17.5.0" type="google">
+  <diagram id="63efnpfhjBeaJRxoVKwO" name="ALM">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-0" />
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-1" parent="Icv7V-INTxjaTtf2iz2I-0" />
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Icv7V-INTxjaTtf2iz2I-1" source="Icv7V-INTxjaTtf2iz2I-7" target="Icv7V-INTxjaTtf2iz2I-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Icv7V-INTxjaTtf2iz2I-1" source="Icv7V-INTxjaTtf2iz2I-7" target="Icv7V-INTxjaTtf2iz2I-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Icv7V-INTxjaTtf2iz2I-1" source="Icv7V-INTxjaTtf2iz2I-7" target="Icv7V-INTxjaTtf2iz2I-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Icv7V-INTxjaTtf2iz2I-1" source="Icv7V-INTxjaTtf2iz2I-7" target="Icv7V-INTxjaTtf2iz2I-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Icv7V-INTxjaTtf2iz2I-1" source="Icv7V-INTxjaTtf2iz2I-7" target="Icv7V-INTxjaTtf2iz2I-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-7" value="Intetgrated Application Lifecycle Management Service (Suite)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="320" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-8" value="WorkItem (Task) Management&lt;br&gt;Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="260" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-9" value="Code Repository Management Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="360" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-10" value="Build &amp;amp; Deployment Workflow Management Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="460" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-11" value="Test Task Management&lt;br&gt;Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="560" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-12" value="(Design, Development) Documentation&lt;br&gt;Management Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="160" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-13" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Diagram: Delivery - ALM Integrated Services&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="120" y="380" width="520" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-14" value="Initial Development" style="shape=flexArrow;endArrow=classic;html=1;endWidth=10;endSize=2.33;strokeColor=#6c8ebf;fillColor=#99CCFF;" edge="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry x="0.6" y="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="360" as="sourcePoint" />
+            <mxPoint x="210" y="360" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Icv7V-INTxjaTtf2iz2I-15" value="Iterative, Full Service Lifecycle Delivery" style="shape=flexArrow;endArrow=classic;html=1;endWidth=10;endSize=2.33;strokeColor=#d79b00;gradientDirection=east;gradientColor=#FFE599;fillColor=#99CCFF;" edge="1" parent="Icv7V-INTxjaTtf2iz2I-1">
+          <mxGeometry y="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="360" as="sourcePoint" />
+            <mxPoint x="640" y="360" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

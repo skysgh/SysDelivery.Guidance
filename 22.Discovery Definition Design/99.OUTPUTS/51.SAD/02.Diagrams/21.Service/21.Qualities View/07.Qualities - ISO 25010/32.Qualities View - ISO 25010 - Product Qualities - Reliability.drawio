@@ -1,0 +1,28 @@
+<mxfile modified="2023-12-17T19:08:10.809Z" host="Electron" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.8.16 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36" etag="aEWajUECv0n71tVW7ThA" compressed="false" version="20.8.16" type="device">
+  <diagram id="4TcdrXX-AY0KsejnfXiS" name="ISO-25010 (Detailed)">
+    <mxGraphModel dx="1050" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="_cMEJkciD_aqV913pfZD-0" />
+        <mxCell id="_cMEJkciD_aqV913pfZD-1" parent="_cMEJkciD_aqV913pfZD-0" />
+        <mxCell id="cZ0vHt0oVeqG0NVhwaIE-158" value="" style="rounded=0;whiteSpace=wrap;html=1;container=1;recursiveResize=0;collapsible=0;" parent="_cMEJkciD_aqV913pfZD-1" vertex="1">
+          <mxGeometry x="370" y="520" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ0vHt0oVeqG0NVhwaIE-159" value="Maturity" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=10;fillColor=none;" parent="cZ0vHt0oVeqG0NVhwaIE-158" vertex="1">
+          <mxGeometry x="0.040000000000020464" y="40" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ0vHt0oVeqG0NVhwaIE-160" value="Availability" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=10;fillColor=none;" parent="cZ0vHt0oVeqG0NVhwaIE-158" vertex="1">
+          <mxGeometry x="0.040000000000020464" y="60" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ0vHt0oVeqG0NVhwaIE-161" value="Reliability" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="cZ0vHt0oVeqG0NVhwaIE-158" vertex="1">
+          <mxGeometry width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ0vHt0oVeqG0NVhwaIE-166" value="Fault Tolerance" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=10;fillColor=none;" parent="_cMEJkciD_aqV913pfZD-1" vertex="1">
+          <mxGeometry x="370.04" y="600" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cZ0vHt0oVeqG0NVhwaIE-167" value="Recoverability" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=10;fillColor=none;" parent="_cMEJkciD_aqV913pfZD-1" vertex="1">
+          <mxGeometry x="370.04" y="620" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

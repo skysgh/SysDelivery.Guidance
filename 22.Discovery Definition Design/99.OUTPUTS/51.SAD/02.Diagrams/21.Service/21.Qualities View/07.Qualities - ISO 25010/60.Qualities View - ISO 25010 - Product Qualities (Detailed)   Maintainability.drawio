@@ -1,0 +1,209 @@
+<mxfile modified="2022-05-02T20:21:26.069Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="14o_R_vcYAXjCwNALXl7" compressed="false" version="17.5.0" type="google">
+  <diagram name="Qualities/Addressed/Maintainability" id="QqdAm89D2JhB5rhy11y6">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="j6sMlRyzLvgcy6ZrbLW6-0" />
+        <mxCell id="j6sMlRyzLvgcy6ZrbLW6-12" value="Diagram" parent="j6sMlRyzLvgcy6ZrbLW6-0" />
+        <UserObject label="Reusability" id="j6sMlRyzLvgcy6ZrbLW6-24">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;fillColor=#E6E6E6;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="140" y="300" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Analysability" id="j6sMlRyzLvgcy6ZrbLW6-25">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;fillColor=#E6E6E6;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="140" y="360" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Testability" id="j6sMlRyzLvgcy6ZrbLW6-26">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;fillColor=#E6E6E6;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="140" y="420" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Modifiability" id="j6sMlRyzLvgcy6ZrbLW6-27">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;fillColor=#E6E6E6;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="140" y="480" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Modularity" id="j6sMlRyzLvgcy6ZrbLW6-28">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;fillColor=#E6E6E6;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="140" y="540" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Supportability" id="j6sMlRyzLvgcy6ZrbLW6-29">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;fillColor=#E6E6E6;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="140" y="600" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Status Reporting" id="j6sMlRyzLvgcy6ZrbLW6-30">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;fillColor=#E6E6E6;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="140" y="660" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Change Control" id="j6sMlRyzLvgcy6ZrbLW6-31">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;fillColor=#E6E6E6;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="140" y="700" width="540" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Sanitize debug msgs saved to rolling log file" id="j6sMlRyzLvgcy6ZrbLW6-50">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="160" y="380" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="All API ops tested by deployment pipeline." id="j6sMlRyzLvgcy6ZrbLW6-51">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="160" y="440" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Dev&#39;ed as Modules --&amp;nbsp; per DDD patterns." id="j6sMlRyzLvgcy6ZrbLW6-52">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="160" y="560" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Highly, due to following DDD patterns." id="j6sMlRyzLvgcy6ZrbLW6-53">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="160" y="500" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="ISO-25010/Maintainability" id="j6sMlRyzLvgcy6ZrbLW6-73">
+          <mxCell style="strokeColor=#666666;html=1;fontColor=#333333;fontSize=12;align=left;fontStyle=1;fillColor=#CCCCCC;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="120" y="280" width="560" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="All pages must be printable." id="j6sMlRyzLvgcy6ZrbLW6-79">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="160" y="320" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="..." id="j6sMlRyzLvgcy6ZrbLW6-80">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="160" y="680" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="..." id="j6sMlRyzLvgcy6ZrbLW6-81">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="160" y="720" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Quality" id="j6sMlRyzLvgcy6ZrbLW6-82">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fillColor=#E6E6E6;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="140" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Feature/Control" id="j6sMlRyzLvgcy6ZrbLW6-83">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="160" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Group" id="j6sMlRyzLvgcy6ZrbLW6-84">
+          <mxCell style="strokeColor=#666666;html=1;fontColor=#333333;fontSize=12;align=left;horizontal=0;fillColor=#f5f5f5;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="120" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Digital First, but meet NZWUS print-based access req.&amp;nbsp;" id="taI8o8EAwc0r21zmPmU6-0">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="180" y="340" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Risk exposing config secrets. And not helpful to users." id="taI8o8EAwc0r21zmPmU6-1">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="180" y="460" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Investment in DDD have proven its value over years." id="taI8o8EAwc0r21zmPmU6-2">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="180" y="520" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Code in big clump quickly becomes unmaintainable." id="taI8o8EAwc0r21zmPmU6-3">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="180" y="580" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Issue/Risk" id="43ssxndQqpUjPl4WCNt1-0">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="180" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Log files are can be a prime source of passwords, challenge question answers, account numbers etc." id="43ssxndQqpUjPl4WCNt1-1">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="180" y="400" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Infrastructure" id="Ec3Ir9bzWQwryuV6nYkV-0">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="600" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info Svc" id="Ec3Ir9bzWQwryuV6nYkV-1">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="640" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Info Svc Client" id="Ec3Ir9bzWQwryuV6nYkV-2">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="660" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Delivery Service" id="Ec3Ir9bzWQwryuV6nYkV-3">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="620" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Processes" id="Ec3Ir9bzWQwryuV6nYkV-4">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=12;align=left;horizontal=0;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="580" y="180" width="20" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Ec3Ir9bzWQwryuV6nYkV-6" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+          <mxGeometry x="660" y="320" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ec3Ir9bzWQwryuV6nYkV-7" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+          <mxGeometry x="640" y="320" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ec3Ir9bzWQwryuV6nYkV-8" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+          <mxGeometry x="640" y="380" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ec3Ir9bzWQwryuV6nYkV-9" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+          <mxGeometry x="600" y="380" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ec3Ir9bzWQwryuV6nYkV-10" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+          <mxGeometry x="620" y="440" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ec3Ir9bzWQwryuV6nYkV-11" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+          <mxGeometry x="580" y="500" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ec3Ir9bzWQwryuV6nYkV-12" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+          <mxGeometry x="580" y="560" width="20" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="No Deployment action by Hand." id="j6sMlRyzLvgcy6ZrbLW6-2">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="160" y="620" width="520" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Unit Tests encode the devs intended intent/IP." id="taI8o8EAwc0r21zmPmU6-4">
+          <mxCell style="strokeColor=#bac8d3;html=1;fontColor=#2f5b7c;fontSize=11;align=left;fontStyle=2" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+            <mxGeometry x="180" y="640" width="500" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Ec3Ir9bzWQwryuV6nYkV-13" value="&lt;b&gt;X&lt;/b&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-12">
+          <mxGeometry x="620" y="620" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DzlxRVNad4QkkZH61zLX-0" value="Title/Diagram" parent="j6sMlRyzLvgcy6ZrbLW6-0" />
+        <mxCell id="DzlxRVNad4QkkZH61zLX-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Diagram: Base System Logical Module - Qualities -&amp;nbsp;ISO-25010 Qualities Addressed - Maintainability&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="DzlxRVNad4QkkZH61zLX-0">
+          <mxGeometry x="120" y="760" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j6sMlRyzLvgcy6ZrbLW6-8" value="Title/Page" visible="0" parent="j6sMlRyzLvgcy6ZrbLW6-0" />
+        <mxCell id="j6sMlRyzLvgcy6ZrbLW6-9" value="" style="group;fontSize=10;" vertex="1" connectable="0" parent="j6sMlRyzLvgcy6ZrbLW6-8">
+          <mxGeometry x="120" y="120" width="560" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="j6sMlRyzLvgcy6ZrbLW6-10" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Base Logical Module - Qualities -&amp;nbsp;ISO-25010 Qualities Addressed - Maintainability&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-9">
+          <mxGeometry width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j6sMlRyzLvgcy6ZrbLW6-11" value="" style="line;strokeWidth=2;html=1;shadow=0;glass=0;comic=0;fillColor=none;fontSize=10;fontColor=#CCCCCC;labelBackgroundColor=none;strokeColor=#CCCCCC;" vertex="1" parent="j6sMlRyzLvgcy6ZrbLW6-9">
+          <mxGeometry y="35" width="560" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="j6sMlRyzLvgcy6ZrbLW6-1" value="About" parent="j6sMlRyzLvgcy6ZrbLW6-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

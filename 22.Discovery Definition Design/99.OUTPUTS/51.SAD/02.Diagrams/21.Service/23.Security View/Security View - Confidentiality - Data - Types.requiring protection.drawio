@@ -1,0 +1,55 @@
+<mxfile modified="2022-05-03T01:30:40.393Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="zz3ixvN5P_tlLf7_7twN" compressed="false" version="17.5.0" type="google">
+  <diagram id="1Rsq_JLILilSGq8kyLX6" name="Security/Data at Rest">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="7V-iHGubSAYWWsGIHRsA-0" />
+        <mxCell id="7V-iHGubSAYWWsGIHRsA-1" value="About" parent="7V-iHGubSAYWWsGIHRsA-0" />
+        <UserObject label="" tooltip="ABOUT&#xa;&#xa;Confidentiality must be maintained in transit, Integrity maintained at rest.&#xa;&#xa;Accountability is by design." id="MXr74ppyBAlEC2V-BV1s-0">
+          <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699014-icon-28-information-128.png;shadow=0;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#505050;dashPattern=1 1;" vertex="1" parent="7V-iHGubSAYWWsGIHRsA-1">
+            <mxGeometry x="660" y="340" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gA5WSx8ddJl0bvITPCKH-0" value="Title/Diagram" parent="7V-iHGubSAYWWsGIHRsA-0" />
+        <mxCell id="gA5WSx8ddJl0bvITPCKH-1" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Diagram: Base System Logical Module - Security -&amp;nbsp;&lt;/span&gt;Data in Transit and Rest" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=2;verticalAlign=middle;align=left;shadow=0;glass=0;comic=0;opacity=30;fontColor=#808080;" vertex="1" parent="gA5WSx8ddJl0bvITPCKH-0">
+          <mxGeometry x="120" y="340" width="520" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JseG8kRZBuRYVJKw49kA-0" value="Description" parent="7V-iHGubSAYWWsGIHRsA-0" />
+        <mxCell id="7V-iHGubSAYWWsGIHRsA-31" value="Components" parent="7V-iHGubSAYWWsGIHRsA-0" />
+        <mxCell id="JseG8kRZBuRYVJKw49kA-5" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;strokeWidth=1;fontFamily=Helvetica;fontSize=10;opacity=10;verticalAlign=middle;fillColor=none;" vertex="1" parent="7V-iHGubSAYWWsGIHRsA-31">
+          <mxGeometry x="320" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JseG8kRZBuRYVJKw49kA-2" value="Media&lt;br&gt;Blob Storage" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;strokeWidth=1;fontFamily=Helvetica;fontSize=10;verticalAlign=middle;" vertex="1" parent="7V-iHGubSAYWWsGIHRsA-31">
+          <mxGeometry x="420" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JseG8kRZBuRYVJKw49kA-4" value="Information&lt;br style=&quot;font-size: 10px;&quot;&gt;System Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;strokeWidth=1;fontFamily=Helvetica;fontSize=10;verticalAlign=middle;" vertex="1" parent="7V-iHGubSAYWWsGIHRsA-31">
+          <mxGeometry x="330" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JseG8kRZBuRYVJKw49kA-6" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;strokeWidth=1;fontFamily=Helvetica;fontSize=10;opacity=10;verticalAlign=middle;fillColor=none;" vertex="1" parent="7V-iHGubSAYWWsGIHRsA-31">
+          <mxGeometry x="430" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JseG8kRZBuRYVJKw49kA-8" value="Diagnostics&lt;br&gt;Blob Storage" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;strokeWidth=1;fontFamily=Helvetica;fontSize=10;verticalAlign=middle;" vertex="1" parent="7V-iHGubSAYWWsGIHRsA-31">
+          <mxGeometry x="510" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-iHGubSAYWWsGIHRsA-10" value="Cookies" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/christmas-46/64/christmas-icon-cookie-128.png;strokeColor=#000000;strokeWidth=1;fillColor=#F7EDFF;gradientColor=#ffffff;fontFamily=Helvetica;fontSize=10;fontColor=#000000;" vertex="1" parent="7V-iHGubSAYWWsGIHRsA-31">
+          <mxGeometry x="200" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-iHGubSAYWWsGIHRsA-7" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;strokeWidth=1;fontFamily=Helvetica;fontSize=10;opacity=10;verticalAlign=middle;fillColor=none;" vertex="1" parent="7V-iHGubSAYWWsGIHRsA-31">
+          <mxGeometry x="340" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-iHGubSAYWWsGIHRsA-13" value="Backup" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;strokeWidth=1;fontFamily=Helvetica;fontSize=10;verticalAlign=middle;" vertex="1" parent="7V-iHGubSAYWWsGIHRsA-31">
+          <mxGeometry x="599.9857003348214" y="239.82855224609375" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-iHGubSAYWWsGIHRsA-9" value="Distributed Cache" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;strokeWidth=1;fontFamily=Helvetica;fontSize=10;verticalAlign=middle;" vertex="1" parent="7V-iHGubSAYWWsGIHRsA-31">
+          <mxGeometry x="240" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8P2JqW_44Y560Lugp4y4-0" value="Reports" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.report;fontSize=10;spacingTop=2;" vertex="1" parent="7V-iHGubSAYWWsGIHRsA-31">
+          <mxGeometry x="120" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tzUWO5iOUN2TtROVM-5H-0" value="Email" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.envelope_(message);rounded=0;fillColor=none;fontFamily=Helvetica;fontSize=10;fontColor=#000000;strokeColor=#0080F0;spacing=2;spacingTop=7;" vertex="1" parent="7V-iHGubSAYWWsGIHRsA-31">
+          <mxGeometry x="165" y="245" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7V-iHGubSAYWWsGIHRsA-32" value="Requirements" parent="7V-iHGubSAYWWsGIHRsA-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
