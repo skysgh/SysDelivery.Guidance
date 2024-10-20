@@ -1,0 +1,40 @@
+<mxfile host="Electron" modified="2024-09-02T03:35:59.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="S2vroCrc9TIeEFEbgFAp" version="22.1.18" type="device">
+  <diagram id="tFx8NVUHpEqBDBRQr2UT" name="Page-1">
+    <mxGraphModel dx="794" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EXMc8ctzeVNr-j2YEwkf-8" value="1EdTech" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=8;absoluteArcSize=1;align=left;verticalAlign=top;container=1;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="640" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="s9tLqinfn0IwJTN6Mwgx-1" value="Thin Common Cartridge" style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=0;spacingLeft=4;" parent="EXMc8ctzeVNr-j2YEwkf-8" vertex="1">
+          <mxGeometry x="140" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EXMc8ctzeVNr-j2YEwkf-1" value="Open Badges" style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=0;spacingLeft=4;" vertex="1" parent="EXMc8ctzeVNr-j2YEwkf-8">
+          <mxGeometry x="260" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EXMc8ctzeVNr-j2YEwkf-2" value="OneRoster" style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=0;spacingLeft=4;" vertex="1" parent="EXMc8ctzeVNr-j2YEwkf-8">
+          <mxGeometry x="140" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EXMc8ctzeVNr-j2YEwkf-3" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;Question &amp;amp; Test Interoperability (QTI)&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=0;spacingLeft=4;" vertex="1" parent="EXMc8ctzeVNr-j2YEwkf-8">
+          <mxGeometry x="260" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EXMc8ctzeVNr-j2YEwkf-4" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;Comprehensive Learner Record (CLR)&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=0;spacingLeft=4;" vertex="1" parent="EXMc8ctzeVNr-j2YEwkf-8">
+          <mxGeometry x="380" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EXMc8ctzeVNr-j2YEwkf-5" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Competencies &amp;amp; Academic Standards Exchange (CASE)&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=0;spacingLeft=4;spacing=0;" vertex="1" parent="EXMc8ctzeVNr-j2YEwkf-8">
+          <mxGeometry x="380" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EXMc8ctzeVNr-j2YEwkf-6" value="Caliper Analytics" style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=0;spacingLeft=4;" vertex="1" parent="EXMc8ctzeVNr-j2YEwkf-8">
+          <mxGeometry x="20" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EXMc8ctzeVNr-j2YEwkf-7" value="Common Cartrige" style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=0;spacingLeft=4;" vertex="1" parent="EXMc8ctzeVNr-j2YEwkf-8">
+          <mxGeometry x="20" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EXMc8ctzeVNr-j2YEwkf-9" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;LTI&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=0;spacingLeft=4;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
