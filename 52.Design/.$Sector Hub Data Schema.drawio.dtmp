@@ -1,0 +1,64 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8" pages="7">
+  <diagram id="tFx8NVUHpEqBDBRQr2UT" name="Page-1">
+    <mxGraphModel dx="1036" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s9tLqinfn0IwJTN6Mwgx-2" value="Text" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=8;container=1;collapsible=0;recursiveResize=0;dashed=1;align=left;verticalAlign=top;spacing=0;spacingLeft=4;spacingTop=-2;spacingBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s9tLqinfn0IwJTN6Mwgx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;spacingBottom=0;spacingLeft=4;" vertex="1" parent="s9tLqinfn0IwJTN6Mwgx-2">
+          <mxGeometry x="10" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TSFn0q0t1qSfU9NcfHvI" name="Individual">
+    <mxGraphModel dx="780" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZjsEdmFxrRc8oMA50gjT" name="Social">
+    <mxGraphModel dx="780" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MzkdEG712NlpNLta3j9U" name="Resources">
+    <mxGraphModel dx="780" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="82aomMSe3pn9xUn8pyZy" name="Scheduling">
+    <mxGraphModel dx="780" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KuKu3xJLUN362uFDxEKW" name="Tasks">
+    <mxGraphModel dx="780" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NOOyKPa8iCgIALUjypZd" name="Assessments">
+    <mxGraphModel dx="780" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

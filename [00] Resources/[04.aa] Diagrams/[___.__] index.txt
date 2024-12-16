@@ -1,0 +1,55 @@
+
+
+
+100.- Market 
+110. - PESTLEE
+111.       - Politics
+112.	   - Economics
+113.	   - Social
+114.	   - Technical
+115.	   - Legal
+116.	   - Environmental
+120.  - Trends
+
+130.   - Organisation
+131.      - Vision
+132.      - Objectives
+131.      - Structure
+132.      - Capabilities
+133.	    - Domains
+134.	      - Crosscutting
+135.	      - Common
+136.		  - Business Specific
+137.	  - Functions
+138.	  - Artefacts/Messages
+139.	  - Constraints
+	    - Obligations
+	    - Regulations
+	    - Agreements
+	    - Principles
+	    - Dependencies
+140. - SWOT
+131.	   - Strengths
+132.	   - Weaknesses
+133.	   - Opportunities
+134.	   - Threats
+
+
+140. Group
+
+151    - Service
+      31 - Stakeholders
+	  32   - Domains
+	         - Technological
+	         - Social
+			 - General
+			 - Business  
+			   - Education
+	  33 - Users
+	       - Journeys
+    - Dependencies
+
+      	  
+	  
+	
+	
