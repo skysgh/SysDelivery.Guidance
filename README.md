@@ -1,4 +1,5 @@
 # SysDelivery.Guidance
+
 Short Guidance Documents aimed to facilitate stakeholders' understanding and being mindful of ICT delivery aspects. 
 
 ## Organisation ##
@@ -19,4 +20,4 @@ Under each of these, documents are organised as one of the following, which loos
 * Design: to design the solution and/or composite systems
 * Development: the development of custom systems
 * Deployment: technical deployment of systems and their data
-* Delivery: Change Management of the reelase of new functionality 
+* Delivery: Change Management of the reelase of new functionality
