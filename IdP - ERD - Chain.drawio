@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <mxfile host="Electron" modified="2025-07-03T21:45:00.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="dmsvbfY-q3vvB69n-Y-M" version="22.1.18" type="device">
+=======
+<mxfile host="Electron" modified="2025-06-17T23:24:18.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="PMhW0xSfihOvBiY1X06q" version="22.1.18" type="device">
+>>>>>>> f1d8c4e31034dc65ba74f29a30186c29ab4e56a4
   <diagram name="Page-1" id="wmFYJCONU6KyqQWtbE9K">
     <mxGraphModel dx="794" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
