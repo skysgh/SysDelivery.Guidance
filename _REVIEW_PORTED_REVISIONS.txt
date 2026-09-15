@@ -1,0 +1,28 @@
+REVIEW BEFORE CONSOLIDATING DOCUMENTS
+
+The seven files beginning _PORTED_ under [05] Documents were copied from folder 1
+for review. They were not substituted for, or merged into, existing 3M documents.
+
+Two of the ported titles have an additional, different revision in folder 1's
+former [00] Resources tree. Compare these pairs and choose whether the older
+revision contains wording or diagrams worth incorporating:
+
+1. Integrations - Overview of Common Approaches
+   Later ported copy (Office modified 2025-08-26):
+   [05] Documents\Documents - Guidance\_PORTED_[06.02.02] IT Project Guidance - Design - Integrations - Overview of Common Approaches.docx
+   Older alternative, copied here for review (Office modified 2025-04-26):
+   [05] Documents\Documents - Guidance\_PORTED_OLDER_[06.02.02] IT Project Guidance - Design - Integrations - Overview of Common Approaches.docx
+
+2. API & Integration Platform Option Considerations
+   Later ported copy (Office modified 2025-08-25):
+   [05] Documents\_PORTED_IT Project - Guidance [Design] - API & Integration Platform Option Considerations.docx
+   Older alternative, copied here for review (Office modified 2025-04-06):
+   [05] Documents\_PORTED_OLDER_IT Project - Guidance [Design] - API & Integration Platform Option Considerations.docx
+
+The later Office dates support the ported copies as the probable latest drafts,
+but do not prove that every idea in the older alternatives was retained.
+Keep the originals intact until reviewed. Mark a choice here before deleting
+any _PORTED_ or older files.
+
+Decision 1: [pending]
+Decision 2: [pending]
