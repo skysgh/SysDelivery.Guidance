@@ -1,7 +1,7 @@
 REVIEW BEFORE CONSOLIDATING DOCUMENTS
 
 For each pair below, A is the later ported draft and B is the older alternative.
-Open the filenames ending _A.docx and _B.docx on the work device. These are
+Open the filenames ending _TODECIDE_A.docx and _TODECIDE_B.docx on the work device. These are
 hash-verified copies; the original unsuffixed files remain because this device
 could not rename them. Do not interpret the unsuffixed copies as extra choices.
 
@@ -14,15 +14,15 @@ revision contains wording or diagrams worth incorporating:
 
 1. Integrations - Overview of Common Approaches
    Later ported copy (Office modified 2025-08-26):
-   [05] Documents\Documents - Guidance\_PORTED_[06.02.02] IT Project Guidance - Design - Integrations - Overview of Common Approaches_A.docx
+   [05] Documents\Documents - Guidance\_PORTED_[06.02.02] IT Project Guidance - Design - Integrations - Overview of Common Approaches_TODECIDE_A.docx
    Older alternative, copied here for review (Office modified 2025-04-26):
-   [05] Documents\Documents - Guidance\_PORTED_OLDER_[06.02.02] IT Project Guidance - Design - Integrations - Overview of Common Approaches_B.docx
+   [05] Documents\Documents - Guidance\_PORTED_OLDER_[06.02.02] IT Project Guidance - Design - Integrations - Overview of Common Approaches_TODECIDE_B.docx
 
 2. API & Integration Platform Option Considerations
    Later ported copy (Office modified 2025-08-25):
-   [05] Documents\_PORTED_IT Project - Guidance [Design] - API & Integration Platform Option Considerations_A.docx
+   [05] Documents\_PORTED_IT Project - Guidance [Design] - API & Integration Platform Option Considerations_TODECIDE_A.docx
    Older alternative, copied here for review (Office modified 2025-04-06):
-   [05] Documents\_PORTED_OLDER_IT Project - Guidance [Design] - API & Integration Platform Option Considerations_B.docx
+   [05] Documents\_PORTED_OLDER_IT Project - Guidance [Design] - API & Integration Platform Option Considerations_TODECIDE_B.docx
 
 The later Office dates support the ported copies as the probable latest drafts,
 but do not prove that every idea in the older alternatives was retained.
